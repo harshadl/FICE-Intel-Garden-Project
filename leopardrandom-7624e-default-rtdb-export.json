@@ -1,0 +1,5634 @@
+{
+  "Hum": "67.0",
+  "Status": {
+    "-NeI8xE-PUaoJpu34cZY": {
+      "Hum": 44,
+      "Temp": 4
+    },
+    "-NeI8xNoXmHrIoysoezN": {
+      "Hum": 21,
+      "Temp": 3
+    },
+    "-NeI8xXXjYnyBfGkFtJH": {
+      "Hum": 24,
+      "Temp": 6
+    },
+    "-NeI8xg9HOa_5xKMASRM": {
+      "Hum": 19,
+      "Temp": 6
+    },
+    "-NeI8xq-tFmnd7t7VIfY": {
+      "Hum": 23,
+      "Temp": 9
+    },
+    "-NeI8xzn8GvtKt9VBkeg": {
+      "Hum": 46,
+      "Temp": 6
+    },
+    "-NeI8y8aBKSM_YQsyaBi": {
+      "Hum": 35,
+      "Temp": 7
+    },
+    "-NeI8yIAdxn5SCF3Ayhg": {
+      "Hum": 31,
+      "Temp": 3
+    },
+    "-NeI8yRsbm3qBPMYCWEv": {
+      "Hum": 26,
+      "Temp": 5
+    },
+    "-NeI8yalQzPNs0FTZZbc": {
+      "Hum": 39,
+      "Temp": 8
+    },
+    "-NeI8yka_zWK0Bw9mDFq": {
+      "Hum": 42,
+      "Temp": 8
+    },
+    "-NeI8yuQgxGV4cTjP6tP": {
+      "Hum": 24,
+      "Temp": 1
+    },
+    "-NeI8z3BOCPxDOtXHL7d": {
+      "Hum": 21,
+      "Temp": 6
+    },
+    "-NeI8zConYuSZWJuAGVP": {
+      "Hum": 10,
+      "Temp": 6
+    },
+    "-NeI8zNKI3hgiOd-eHz3": {
+      "Hum": 13,
+      "Temp": 1
+    },
+    "-NeI8zX0kaF_Vmc70kDG": {
+      "Hum": 22,
+      "Temp": 9
+    },
+    "-NeI8zg8ZAr3QudAldq9": {
+      "Hum": 16,
+      "Temp": 5
+    },
+    "-NeI8zq3o4lgzat-xhGH": {
+      "Hum": 32,
+      "Temp": 9
+    },
+    "-NeI8zzkiQLmhPX9isd_": {
+      "Hum": 20,
+      "Temp": 3
+    },
+    "-NeI9-8WzRfru-Qia_c_": {
+      "Hum": 36,
+      "Temp": 1
+    },
+    "-NeI9-IHyn31wt44NQLO": {
+      "Hum": 46,
+      "Temp": 8
+    },
+    "-NeI9-S2NXVlk4W0e9q9": {
+      "Hum": 17,
+      "Temp": 2
+    },
+    "-NeI9-aufCpi33JME175": {
+      "Hum": 45,
+      "Temp": 4
+    },
+    "-NeI9-lKG0oaDW_ZMesL": {
+      "Hum": 26,
+      "Temp": 1
+    },
+    "-NeI9-v6sEwDmrl-XJaB": {
+      "Hum": 16,
+      "Temp": 5
+    },
+    "-NeI903tmFgCaUcPiXq8": {
+      "Hum": 13,
+      "Temp": 3
+    },
+    "-NeI90DzQKHW6JVauSN4": {
+      "Hum": 48,
+      "Temp": 8
+    },
+    "-NeI90OKIp9FiDbLXHq6": {
+      "Hum": 49,
+      "Temp": 8
+    },
+    "-NeI90YHyR_2PEuuazDV": {
+      "Hum": 41,
+      "Temp": 4
+    },
+    "-NeI90h7-QB7jebHiIzc": {
+      "Hum": 17,
+      "Temp": 7
+    },
+    "-NeI90r5hVef74rmx8BA": {
+      "Hum": 14,
+      "Temp": 8
+    },
+    "-NeI9149U4F6uxf9RoL6": {
+      "Hum": 21,
+      "Temp": 7
+    },
+    "-NeI91UtG8esVdzW4H4s": {
+      "Hum": 20,
+      "Temp": 1
+    },
+    "-NeI91deVVEfRjh-DPxm": {
+      "Hum": 11,
+      "Temp": 7
+    },
+    "-NeI91rGBPGOBy-JN4QW": {
+      "Hum": 46,
+      "Temp": 2
+    },
+    "-NeI92-zmwgNy4qDYH8B": {
+      "Hum": 42,
+      "Temp": 8
+    },
+    "-NeI929kQ7eaDLuVT9k0": {
+      "Hum": 46,
+      "Temp": 7
+    },
+    "-NeI92Jbhgza2rIUDM1h": {
+      "Hum": 29,
+      "Temp": 8
+    },
+    "-NeI92TPBY8suY1-1SW9": {
+      "Hum": 35,
+      "Temp": 2
+    },
+    "-NeI92c1q9tq3kPdb3ge": {
+      "Hum": 21,
+      "Temp": 3
+    },
+    "-NeI92m6n6yQQ6ICqW1r": {
+      "Hum": 16,
+      "Temp": 4
+    },
+    "-NeI93--eD0TPLdxE92G": {
+      "Hum": 35,
+      "Temp": 1
+    },
+    "-NeI938lO8LUoQnR3iBk": {
+      "Hum": 11,
+      "Temp": 8
+    },
+    "-NeI93IYwF7QbKWrv9bT": {
+      "Hum": 44,
+      "Temp": 6
+    },
+    "-NeI93SOpDb55hYgE3HD": {
+      "Hum": 34,
+      "Temp": 8
+    },
+    "-NeI93f4iE4e3alERMPm": {
+      "Hum": 29,
+      "Temp": 6
+    },
+    "-NeI93p1FQNzdX6IPygu": {
+      "Hum": 25,
+      "Temp": 9
+    },
+    "-NeI93yqYxyV7Kgw0xvj": {
+      "Hum": 36,
+      "Temp": 8
+    },
+    "-NeI94804rfyLcrsOB37": {
+      "Hum": 42,
+      "Temp": 2
+    },
+    "-NeI94J2RmrkjX16XbWf": {
+      "Hum": 12,
+      "Temp": 2
+    },
+    "-NeI94_AopVupF2hYCJk": {
+      "Hum": 15,
+      "Temp": 3
+    },
+    "-NeI94lcSZmeY9e6DhtR": {
+      "Hum": 12,
+      "Temp": 5
+    },
+    "-NeI94xiHtvF1M8MJ4e-": {
+      "Hum": 20,
+      "Temp": 6
+    },
+    "-NeI959nnOt--oBLSORr": {
+      "Hum": 31,
+      "Temp": 2
+    },
+    "-NeI95KOkTRLcG_4mc6P": {
+      "Hum": 40,
+      "Temp": 8
+    },
+    "-NeI95V4LeC_o3ss8xaE": {
+      "Hum": 43,
+      "Temp": 5
+    },
+    "-NeI95dhYbMbQjCEugNa": {
+      "Hum": 31,
+      "Temp": 5
+    },
+    "-NeI95yNEuqPoX14Gj83": {
+      "Hum": 17,
+      "Temp": 3
+    },
+    "-NeI966kFKiFy3GnBt4I": {
+      "Hum": 30,
+      "Temp": 2
+    },
+    "-NeI96GMS4x6twWktcKo": {
+      "Hum": 47,
+      "Temp": 2
+    },
+    "-NeI96PrJxduPM35y2o-": {
+      "Hum": 35,
+      "Temp": 9
+    },
+    "-NeI96ZQEf81UyAsVCLb": {
+      "Hum": 31,
+      "Temp": 3
+    },
+    "-NeI96iU8yHP9RQsFr4D": {
+      "Hum": 34,
+      "Temp": 3
+    },
+    "-NeI96wEKN-cwyyQAj7K": {
+      "Hum": 40,
+      "Temp": 7
+    },
+    "-NeI974cyDIgvjlg5MMB": {
+      "Hum": 15,
+      "Temp": 5
+    },
+    "-NeI97Dy1fAbY-XhnbhF": {
+      "Hum": 25,
+      "Temp": 7
+    },
+    "-NeI97NHQeS8rqD8MZ_n": {
+      "Hum": 33,
+      "Temp": 1
+    },
+    "-NeI97WyM-fBK7G-LGfY": {
+      "Hum": 38,
+      "Temp": 4
+    },
+    "-NeI97fZoo23MlcLtzXi": {
+      "Hum": 44,
+      "Temp": 4
+    },
+    "-NeI97ozflemWvbFt10w": {
+      "Hum": 28,
+      "Temp": 8
+    },
+    "-NeI97ycxHUsf0InbVR_": {
+      "Hum": 11,
+      "Temp": 9
+    },
+    "-NeI9878fYWi0yLjI5vc": {
+      "Hum": 29,
+      "Temp": 6
+    },
+    "-NeI98H6JaV2e-ktwlyP": {
+      "Hum": 28,
+      "Temp": 1
+    },
+    "-NeI98S1p0Md9XH38fxb": {
+      "Hum": 22,
+      "Temp": 6
+    },
+    "-NeI98aYw2aKOPxJtpUX": {
+      "Hum": 24,
+      "Temp": 6
+    },
+    "-NeI98jy7e95QlM_mVRQ": {
+      "Hum": 39,
+      "Temp": 1
+    },
+    "-NeI98tOwzNYKiLj_g9Y": {
+      "Hum": 16,
+      "Temp": 9
+    },
+    "-NeI991oafqGCXK2UV0V": {
+      "Hum": 25,
+      "Temp": 4
+    },
+    "-NeI99C6xMngQUU6HBwf": {
+      "Hum": 28,
+      "Temp": 8
+    },
+    "-NeI99L_QNcCou-eEP3Y": {
+      "Hum": 13,
+      "Temp": 3
+    },
+    "-NeI99V64hXHE61X15Zl": {
+      "Hum": 36,
+      "Temp": 5
+    },
+    "-NeI99dihoaSValDcSi_": {
+      "Hum": 32,
+      "Temp": 1
+    },
+    "-NeI99n7JJcZjC-OIX_S": {
+      "Hum": 16,
+      "Temp": 5
+    },
+    "-NeI99we8_lSeOdRED4t": {
+      "Hum": 13,
+      "Temp": 7
+    },
+    "-NeI9A59Yp9sEa8hQHA0": {
+      "Hum": 33,
+      "Temp": 8
+    },
+    "-NeI9AESmPrzqJwBdC5W": {
+      "Hum": 12,
+      "Temp": 8
+    },
+    "-NeI9ANsggRkpIJXS6lA": {
+      "Hum": 39,
+      "Temp": 8
+    },
+    "-NeI9AXwo75HmxoUf9RC": {
+      "Hum": 14,
+      "Temp": 3
+    },
+    "-NeI9AgS2MsKY043z4Qp": {
+      "Hum": 23,
+      "Temp": 1
+    },
+    "-NeI9Aq63f7u8YRcV2dK": {
+      "Hum": 44,
+      "Temp": 6
+    },
+    "-NeI9AzXyWKM6t_Vs7qw": {
+      "Hum": 40,
+      "Temp": 9
+    },
+    "-NeI9B7mTBYkceuDtUl-": {
+      "Hum": 40,
+      "Temp": 8
+    },
+    "-NeI9BHA-NTIvexd1tE_": {
+      "Hum": 49,
+      "Temp": 3
+    },
+    "-NeI9BQcV9TK7SXOuPN1": {
+      "Hum": 48,
+      "Temp": 8
+    },
+    "-NeI9B_CUJoI89K4CtrX": {
+      "Hum": 48,
+      "Temp": 4
+    },
+    "-NeI9Bj-GCBWC4bw0BHW": {
+      "Hum": 11,
+      "Temp": 8
+    },
+    "-NeI9BsTtOIyNSTBD0Cj": {
+      "Hum": 38,
+      "Temp": 1
+    },
+    "-NeI9C17Dqdhd29XqibJ": {
+      "Hum": 36,
+      "Temp": 5
+    },
+    "-NeI9CB37JbNECdMH5OB": {
+      "Hum": 34,
+      "Temp": 8
+    },
+    "-NeI9CK_-mGLUAy3ccF1": {
+      "Hum": 45,
+      "Temp": 5
+    },
+    "-NeI9CZYjcFi3Par3dOg": {
+      "Hum": 11,
+      "Temp": 9
+    },
+    "-NeI9ChpfDM34nzNsujM": {
+      "Hum": 23,
+      "Temp": 7
+    },
+    "-NeI9CraPI99yXCPO0Om": {
+      "Hum": 38,
+      "Temp": 4
+    },
+    "-NeI9D01vvKuJiUegHo-": {
+      "Hum": 40,
+      "Temp": 8
+    },
+    "-NeI9D9Te8g6LsSTPQUN": {
+      "Hum": 30,
+      "Temp": 1
+    },
+    "-NeI9DJJ62obr-FsrEsC": {
+      "Hum": 11,
+      "Temp": 2
+    },
+    "-NeI9DSknhmg1pKn377N": {
+      "Hum": 40,
+      "Temp": 1
+    },
+    "-NeI9DfOwMHHVDtBTW7e": {
+      "Hum": 18,
+      "Temp": 1
+    },
+    "-NeI9DoqBE-28R_2Iv3Q": {
+      "Hum": 23,
+      "Temp": 3
+    },
+    "-NeI9DyYWZcOfKXk8gR5": {
+      "Hum": 19,
+      "Temp": 5
+    },
+    "-NeI9E7hxZxG7axU2gDC": {
+      "Hum": 15,
+      "Temp": 9
+    },
+    "-NeI9EHNLc4-jq6Ae8eZ": {
+      "Hum": 27,
+      "Temp": 5
+    },
+    "-NeI9ERT7Tj74haC7pb9": {
+      "Hum": 39,
+      "Temp": 4
+    },
+    "-NeI9EaD_cM0zfbvFS8Z": {
+      "Hum": 45,
+      "Temp": 9
+    },
+    "-NeI9Ek1k33aWThsaFiT": {
+      "Hum": 34,
+      "Temp": 8
+    },
+    "-NeI9Etl9MalxTJRdFHO": {
+      "Hum": 38,
+      "Temp": 2
+    },
+    "-NeI9FAcaVMXJjk2bhJY": {
+      "Hum": 14,
+      "Temp": 1
+    },
+    "-NeI9FKKvLM4yyJBFME5": {
+      "Hum": 31,
+      "Temp": 2
+    },
+    "-NeI9FU8CZ0Rr1xCyG8E": {
+      "Hum": 36,
+      "Temp": 9
+    },
+    "-NeI9Fcv1IPJrLLZmsx-": {
+      "Hum": 28,
+      "Temp": 1
+    },
+    "-NeI9FmTc9RkbcAG53Y0": {
+      "Hum": 18,
+      "Temp": 2
+    },
+    "-NeI9FwBK_bY-RoUum_Y": {
+      "Hum": 39,
+      "Temp": 6
+    },
+    "-NeI9G9IColHIw1F2MZR": {
+      "Hum": 19,
+      "Temp": 2
+    },
+    "-NeI9GIvJS4rmTxDKgpe": {
+      "Hum": 35,
+      "Temp": 1
+    },
+    "-NeI9GSY6BCNnmv96KNx": {
+      "Hum": 47,
+      "Temp": 8
+    },
+    "-NeI9GfhdHRXSnbH5wsz": {
+      "Hum": 11,
+      "Temp": 7
+    },
+    "-NeI9Gp16GluKSXQnY7z": {
+      "Hum": 25,
+      "Temp": 3
+    },
+    "-NeI9H5JUN3ecgB47BHR": {
+      "Hum": 15,
+      "Temp": 3
+    },
+    "-NeI9HFJWJZkEDTZLaOz": {
+      "Hum": 28,
+      "Temp": 4
+    },
+    "-NeI9HOrJaMPX4VEGbz9": {
+      "Hum": 29,
+      "Temp": 9
+    },
+    "-NeI9HYB5oHK_yqOvGCf": {
+      "Hum": 47,
+      "Temp": 7
+    },
+    "-NeI9HgobUMtZjyF4Gu7": {
+      "Hum": 27,
+      "Temp": 3
+    },
+    "-NeI9HqTeyFw9HpTE973": {
+      "Hum": 46,
+      "Temp": 3
+    },
+    "-NeI9I-7bXzCq8HGj-c3": {
+      "Hum": 16,
+      "Temp": 3
+    },
+    "-NeI9ICXuebVm_wccyN7": {
+      "Hum": 25,
+      "Temp": 8
+    },
+    "-NeI9IMKxGu8mW3EidEa": {
+      "Hum": 27,
+      "Temp": 9
+    },
+    "-NeI9IW0qs_rtYgprJvM": {
+      "Hum": 39,
+      "Temp": 2
+    },
+    "-NeI9IeXpT_KC2qB_N2H": {
+      "Hum": 42,
+      "Temp": 8
+    },
+    "-NeI9Io0ncugeDiquwoS": {
+      "Hum": 42,
+      "Temp": 8
+    },
+    "-NeI9IyE2yfavR89tTTU": {
+      "Hum": 33,
+      "Temp": 2
+    },
+    "-NeI9J6rff-h2AZ03k3V": {
+      "Hum": 48,
+      "Temp": 4
+    },
+    "-NeI9JJjC2JCbpYNyzNo": {
+      "Hum": 35,
+      "Temp": 1
+    },
+    "-NeI9JUATg3mXm8JIPMH": {
+      "Hum": 37,
+      "Temp": 1
+    },
+    "-NeI9JdjVXKFiuktxgp7": {
+      "Hum": 35,
+      "Temp": 4
+    },
+    "-NeI9JoLWbhkoshTvqP0": {
+      "Hum": 21,
+      "Temp": 4
+    },
+    "-NeI9JytUM-bCILPtmXa": {
+      "Hum": 28,
+      "Temp": 2
+    },
+    "-NeI9K81RZ3oYs1uqIMm": {
+      "Hum": 18,
+      "Temp": 8
+    },
+    "-NeI9KI4_pEyFBuFgmou": {
+      "Hum": 12,
+      "Temp": 1
+    },
+    "-NeI9KR_7foQvK-zNOBo": {
+      "Hum": 18,
+      "Temp": 7
+    },
+    "-NeI9KfHik9X6y71VcEq": {
+      "Hum": 30,
+      "Temp": 1
+    },
+    "-NeI9Kw4zE6B2aXhbcoC": {
+      "Hum": 42,
+      "Temp": 8
+    },
+    "-NeI9L50lAQSj3MaBnyJ": {
+      "Hum": 34,
+      "Temp": 1
+    },
+    "-NeI9LIe8Lyo2CawHf9X": {
+      "Hum": 38,
+      "Temp": 3
+    },
+    "-NeI9LWTiQpbB9b4D5st": {
+      "Hum": 45,
+      "Temp": 1
+    },
+    "-NeI9LjIwhod7erV8TD_": {
+      "Hum": 14,
+      "Temp": 8
+    },
+    "-NeI9LstlDXuVYbzSbI8": {
+      "Hum": 16,
+      "Temp": 6
+    },
+    "-NeI9M1QY4Z6HVq3TFuD": {
+      "Hum": 14,
+      "Temp": 7
+    },
+    "-NeI9MB1mOnquARV_X46": {
+      "Hum": 21,
+      "Temp": 7
+    },
+    "-NeI9MKeSruzabQOVdTH": {
+      "Hum": 12,
+      "Temp": 9
+    },
+    "-NeI9MUKEg6BqitWitcs": {
+      "Hum": 43,
+      "Temp": 7
+    },
+    "-NeI9McrHKAD9KOf4XOk": {
+      "Hum": 36,
+      "Temp": 3
+    },
+    "-NeI9MmcFUoAVp9R2d_y": {
+      "Hum": 21,
+      "Temp": 7
+    },
+    "-NeI9MwCqnK78oXCVUMO": {
+      "Hum": 22,
+      "Temp": 9
+    },
+    "-NeI9N4lvKQ1K-OrREbH": {
+      "Hum": 15,
+      "Temp": 1
+    },
+    "-NeI9NEK9Je6yUvKivPv": {
+      "Hum": 16,
+      "Temp": 4
+    },
+    "-NeI9NNmz4PC4UWY-GBB": {
+      "Hum": 30,
+      "Temp": 9
+    },
+    "-NeI9NXXC1pIGfE1LjAd": {
+      "Hum": 22,
+      "Temp": 9
+    },
+    "-NeI9Ng2hH1vHMm9wl_f": {
+      "Hum": 44,
+      "Temp": 7
+    },
+    "-NeI9NpbfcUbf0hoFCvq": {
+      "Hum": 16,
+      "Temp": 6
+    },
+    "-NeI9NzLxNP8y9HUwdTo": {
+      "Hum": 17,
+      "Temp": 8
+    },
+    "-NeI9O89DwDqcSWozmKN": {
+      "Hum": 12,
+      "Temp": 9
+    },
+    "-NeI9OHrSIO4jv3Xvwls": {
+      "Hum": 26,
+      "Temp": 8
+    },
+    "-NeI9ORZd0Dy7Bqcy9w3": {
+      "Hum": 15,
+      "Temp": 6
+    },
+    "-NeI9OaDCyC__kwgI-pW": {
+      "Hum": 48,
+      "Temp": 8
+    },
+    "-NeI9Ok3790wiCTqC-wg": {
+      "Hum": 48,
+      "Temp": 2
+    },
+    "-NeI9OtrIbxXWXEXbH3M": {
+      "Hum": 17,
+      "Temp": 7
+    },
+    "-NeI9P2QWdPTu4Mt5tHN": {
+      "Hum": 27,
+      "Temp": 6
+    },
+    "-NeI9PCDWVAJLXHMxW2g": {
+      "Hum": 49,
+      "Temp": 2
+    },
+    "-NeI9PM0KRvIHY9uIbtR": {
+      "Hum": 18,
+      "Temp": 6
+    },
+    "-NeI9PVbTNIiZbCh9pH2": {
+      "Hum": 26,
+      "Temp": 2
+    },
+    "-NeI9Pe76ig91BBlyQDC": {
+      "Hum": 38,
+      "Temp": 6
+    },
+    "-NeI9Pns_rHsr_UkQ_RA": {
+      "Hum": 15,
+      "Temp": 7
+    },
+    "-NeI9PxnJ1B_sTcCckq2": {
+      "Hum": 41,
+      "Temp": 6
+    },
+    "-NeI9Q6TMtWdhF86FpOL": {
+      "Hum": 39,
+      "Temp": 3
+    },
+    "-NeI9QG6a9uMMTqJzyAC": {
+      "Hum": 21,
+      "Temp": 2
+    },
+    "-NeI9QPaej_leEyMcHZp": {
+      "Hum": 10,
+      "Temp": 4
+    },
+    "-NeI9Qq5xtP4kY9-EpWw": {
+      "Hum": 45,
+      "Temp": 5
+    },
+    "-NeI9Qzm4AmAFkcIpLBc": {
+      "Hum": 44,
+      "Temp": 4
+    },
+    "-NeI9R8oikUqYnmD7aRA": {
+      "Hum": 19,
+      "Temp": 2
+    },
+    "-NeI9RICsoZpWQzrmiBi": {
+      "Hum": 11,
+      "Temp": 3
+    },
+    "-NeI9RRmhXQyfm4xWlbB": {
+      "Hum": 34,
+      "Temp": 7
+    },
+    "-NeI9RaPlikIR67s0bw2": {
+      "Hum": 44,
+      "Temp": 5
+    },
+    "-NeI9Rk4FZ7weCCyshE5": {
+      "Hum": 22,
+      "Temp": 9
+    },
+    "-NeI9S4fCYvNA9c9G2nx": {
+      "Hum": 22,
+      "Temp": 5
+    },
+    "-NeI9SEqfQG6wt4z0MZf": {
+      "Hum": 47,
+      "Temp": 9
+    },
+    "-NeI9SOr6vxj6JA2eFF1": {
+      "Hum": 39,
+      "Temp": 8
+    },
+    "-NeI9SYu9nzKNw0dZw49": {
+      "Hum": 35,
+      "Temp": 9
+    },
+    "-NeI9SqUeApVSYceFj75": {
+      "Hum": 49,
+      "Temp": 2
+    },
+    "-NeI9T-G8kGKIE7sy7hN": {
+      "Hum": 17,
+      "Temp": 2
+    },
+    "-NeI9T91hY7TbxxUOk9c": {
+      "Hum": 43,
+      "Temp": 9
+    },
+    "-NeI9TOqWjEX6nZEctbt": {
+      "Hum": 28,
+      "Temp": 8
+    },
+    "-NeI9TYVJmCW49TaUFVr": {
+      "Hum": 40,
+      "Temp": 7
+    },
+    "-NeI9Up7vUDW5lHQ9xfL": {
+      "Hum": 43,
+      "Temp": 6
+    },
+    "-NeI9UymU79DyE2K14Xg": {
+      "Hum": 21,
+      "Temp": 7
+    },
+    "-NeI9V7Rm_GxmqfM9cBQ": {
+      "Hum": 37,
+      "Temp": 4
+    },
+    "-NeIDgHYyV3jup3mETLh": {
+      "Hum": 35,
+      "Temp": 5
+    },
+    "-NeIDgQyH--yNRQBsvOd": {
+      "Hum": 48,
+      "Temp": 2
+    },
+    "-NeIDg_NsSPMpW7ddk_J": {
+      "Hum": 38,
+      "Temp": 3
+    },
+    "-NeIDginuqkzru3OdR4G": {
+      "Hum": 21,
+      "Temp": 7
+    },
+    "-NeIDgsGV0yQlAK5SbGQ": {
+      "Hum": 42,
+      "Temp": 9
+    },
+    "-NeIDh0f6BPijv9REMN6": {
+      "Hum": 11,
+      "Temp": 9
+    },
+    "-NeIDhA8j-I98WW1bib4": {
+      "Hum": 27,
+      "Temp": 9
+    },
+    "-NeIDhJjGSmPjojK7R07": {
+      "Hum": 41,
+      "Temp": 2
+    },
+    "-NeIDhTKysYelgA7P-jK": {
+      "Hum": 49,
+      "Temp": 6
+    },
+    "-NeIDhbn7t_BJ2NbT_A-": {
+      "Hum": 18,
+      "Temp": 5
+    },
+    "-NeIDhlDpa6la2NnaHdq": {
+      "Hum": 28,
+      "Temp": 4
+    },
+    "-NeIDhugxSVec_L8UomR": {
+      "Hum": 29,
+      "Temp": 9
+    },
+    "-NeIDi36cTjoSrx2zW8C": {
+      "Hum": 40,
+      "Temp": 8
+    },
+    "-NeIDiCWMAwRfS1N8TGw": {
+      "Hum": 40,
+      "Temp": 9
+    },
+    "-NeIDiLv0l8vPupmPOeZ": {
+      "Hum": 18,
+      "Temp": 5
+    },
+    "-NeIDiVYQUTtafUoFIyi": {
+      "Hum": 47,
+      "Temp": 5
+    },
+    "-NeIDidwidw5MaMAw-hR": {
+      "Hum": 29,
+      "Temp": 4
+    },
+    "-NeIDinLFg48USRUgfIE": {
+      "Hum": 19,
+      "Temp": 6
+    },
+    "-NeIDiwmX-HB9JuK0o7d": {
+      "Hum": 34,
+      "Temp": 9
+    },
+    "-NeIDj60OsBHgqxfRdPx": {
+      "Hum": 48,
+      "Temp": 3
+    },
+    "-NeIDjFRvffAAp5rK-ys": {
+      "Hum": 26,
+      "Temp": 4
+    },
+    "-NeIDjOz4fErNzAtZ6oc": {
+      "Hum": 41,
+      "Temp": 6
+    },
+    "-NeIDjYQbG78bieII060": {
+      "Hum": 15,
+      "Temp": 1
+    },
+    "-NeIDjhA0xEZivw3UYPd": {
+      "Hum": 17,
+      "Temp": 5
+    },
+    "-NeIDjqzIGbW2IyN4i0T": {
+      "Hum": 17,
+      "Temp": 8
+    },
+    "-NeIDk-QXwJ98SLqfi2q": {
+      "Hum": 48,
+      "Temp": 7
+    },
+    "-NeIDk9RydkeX_URALIF": {
+      "Hum": 26,
+      "Temp": 5
+    },
+    "-NeIDkIq5cB36sDX0u49": {
+      "Hum": 18,
+      "Temp": 8
+    },
+    "-NeIDkSHk3HgUjjRgF40": {
+      "Hum": 29,
+      "Temp": 3
+    },
+    "-NeIDkajA9FM5scR49Pr": {
+      "Hum": 17,
+      "Temp": 7
+    },
+    "-NeIDkkGO9W1M-cl9cWh": {
+      "Hum": 48,
+      "Temp": 3
+    },
+    "-NeIDktqkXqP-sHkP6nv": {
+      "Hum": 38,
+      "Temp": 5
+    },
+    "-NeIDl2solNCmSidF8U_": {
+      "Hum": 17,
+      "Temp": 6
+    },
+    "-NeIDlCaVdFXpFWR66aM": {
+      "Hum": 38,
+      "Temp": 3
+    },
+    "-NeIDlM5Fj-2KskO-8_C": {
+      "Hum": 25,
+      "Temp": 4
+    },
+    "-NeIDlVcfl7zGyLXKFC0": {
+      "Hum": 27,
+      "Temp": 7
+    },
+    "-NeIDle-DE2Y5owFE1iM": {
+      "Hum": 11,
+      "Temp": 2
+    },
+    "-NeIDlna7okrB14_D_HI": {
+      "Hum": 43,
+      "Temp": 3
+    },
+    "-NeIDlxCXdJjiCL20Cd2": {
+      "Hum": 31,
+      "Temp": 6
+    },
+    "-NeIDm5p4UHeoFS2C7Nu": {
+      "Hum": 22,
+      "Temp": 2
+    },
+    "-NeIDmFJ02RjCmuxwX95": {
+      "Hum": 15,
+      "Temp": 3
+    },
+    "-NeIDmbAMn7A7DLXX1sR": {
+      "Hum": 44,
+      "Temp": 9
+    },
+    "-NeIDmksCk6slpH14CV3": {
+      "Hum": 48,
+      "Temp": 6
+    },
+    "-NeIDmuKrvYYrKc4nMCo": {
+      "Hum": 40,
+      "Temp": 2
+    },
+    "-NeIDn2o8vpE9-ioRxJz": {
+      "Hum": 30,
+      "Temp": 2
+    },
+    "-NeIDnDgQKUIywLAUMsw": {
+      "Hum": 34,
+      "Temp": 5
+    },
+    "-NeIDnO2H7Wi5DGtBP7p": {
+      "Hum": 17,
+      "Temp": 6
+    },
+    "-NeIDnYUrgzM7Y0L2ICv": {
+      "Hum": 34,
+      "Temp": 5
+    },
+    "-NeIDnhE3SS_gDpgg1gx": {
+      "Hum": 28,
+      "Temp": 8
+    },
+    "-NeIDnrxhOtDsLSePEax": {
+      "Hum": 29,
+      "Temp": 8
+    },
+    "-NeIDoEQTizveWbCZVIp": {
+      "Hum": 48,
+      "Temp": 1
+    },
+    "-NeIDoOYyn5pvIXlZ9NE": {
+      "Hum": 24,
+      "Temp": 9
+    },
+    "-NeIDoZ6HN-QJdCzsfnU": {
+      "Hum": 41,
+      "Temp": 8
+    },
+    "-NeIDoltXXogzXqfXY4L": {
+      "Hum": 31,
+      "Temp": 7
+    },
+    "-NeIDovvggflDsQrOMP2": {
+      "Hum": 31,
+      "Temp": 9
+    },
+    "-NeIDp4oYNR-FAJZtiTF": {
+      "Hum": 38,
+      "Temp": 5
+    },
+    "-NeIDpEe_hsm7pU3HYdu": {
+      "Hum": 14,
+      "Temp": 8
+    },
+    "-NeIDpPkKzkneufJYcYY": {
+      "Hum": 38,
+      "Temp": 7
+    },
+    "-NeIDp_3W-kh2ZNLTOUp": {
+      "Hum": 32,
+      "Temp": 2
+    },
+    "-NeIDpjSEgREpVgkxoTM": {
+      "Hum": 43,
+      "Temp": 3
+    },
+    "-NeIDptS8lgdfIYAkHSm": {
+      "Hum": 10,
+      "Temp": 4
+    },
+    "-NeIDq2LOc29Lrdghuul": {
+      "Hum": 31,
+      "Temp": 4
+    },
+    "-NeIDqC17pAqQJrrT8Nj": {
+      "Hum": 48,
+      "Temp": 3
+    },
+    "-NeIDqMcHtxV6tPIlXle": {
+      "Hum": 13,
+      "Temp": 6
+    },
+    "-NeIDqXNg7o08cEoHes9": {
+      "Hum": 43,
+      "Temp": 7
+    },
+    "-NeIDqg9Og0ajnOw6dmz": {
+      "Hum": 26,
+      "Temp": 4
+    },
+    "-NeIDqpsbgwl5rwiB8rN": {
+      "Hum": 15,
+      "Temp": 7
+    },
+    "-NeIDqzwRj-MsEGG_U2j": {
+      "Hum": 16,
+      "Temp": 2
+    },
+    "-NeIDr9vi_7JIth0L9iF": {
+      "Hum": 26,
+      "Temp": 5
+    },
+    "-NeIDrJsj86dImFF0C3d": {
+      "Hum": 22,
+      "Temp": 6
+    },
+    "-NeIDrUAElvzJ4cA7yPa": {
+      "Hum": 40,
+      "Temp": 1
+    },
+    "-NeIDrcwwQIrngktt5tl": {
+      "Hum": 42,
+      "Temp": 6
+    },
+    "-NeIDrmiOg0MEsZ-QZM1": {
+      "Hum": 22,
+      "Temp": 8
+    },
+    "-NeIDrwR15L9fAzKHrVc": {
+      "Hum": 49,
+      "Temp": 5
+    },
+    "-NeIDs5y8pnSADJunkNP": {
+      "Hum": 13,
+      "Temp": 7
+    },
+    "-NeIDsGAwKKjDQV-ITq5": {
+      "Hum": 34,
+      "Temp": 9
+    },
+    "-NeIDsQn10Y4-vs7crhD": {
+      "Hum": 16,
+      "Temp": 8
+    },
+    "-NeIDscXKVwZI3m3JXiC": {
+      "Hum": 27,
+      "Temp": 3
+    },
+    "-NeIDsnExs5334PUgG8R": {
+      "Hum": 13,
+      "Temp": 3
+    },
+    "-NeIDsxBPn9ZR7nWLwEG": {
+      "Hum": 25,
+      "Temp": 4
+    },
+    "-NeIDt62lvSd-rr9bwlQ": {
+      "Hum": 13,
+      "Temp": 2
+    },
+    "-NeIDtG4RZ10d2Eb2jf3": {
+      "Hum": 19,
+      "Temp": 7
+    },
+    "-NeIDtQ4NH0H5JpsgH5W": {
+      "Hum": 23,
+      "Temp": 8
+    },
+    "-NeIDtdRZ7sLouENnoZa": {
+      "Hum": 10,
+      "Temp": 3
+    },
+    "-NeIDtoSVOZlV5qDtZIA": {
+      "Hum": 18,
+      "Temp": 1
+    },
+    "-NeIDtz5I2SSGSP6EO2Q": {
+      "Hum": 37,
+      "Temp": 1
+    },
+    "-NeIDu8ghSPDybc-vLRA": {
+      "Hum": 11,
+      "Temp": 2
+    },
+    "-NeIDuQrX8QV3qf4D4-h": {
+      "Hum": 28,
+      "Temp": 5
+    },
+    "-NeIDu_uVSAuZ-3wdAo3": {
+      "Hum": 34,
+      "Temp": 7
+    },
+    "-NeIDujrPzkCSbpgepm4": {
+      "Hum": 38,
+      "Temp": 9
+    },
+    "-NeIDutfx2XGHHg7GxaC": {
+      "Hum": 28,
+      "Temp": 9
+    },
+    "-NeIDv3D8D_rQW7G-0-H": {
+      "Hum": 19,
+      "Temp": 7
+    },
+    "-NeIDvD1KojaWytcRRTg": {
+      "Hum": 21,
+      "Temp": 9
+    },
+    "-NeIDvMsDJZq5Vw62nrR": {
+      "Hum": 27,
+      "Temp": 9
+    },
+    "-NeIDvWe9XzGd4B1p7NG": {
+      "Hum": 43,
+      "Temp": 2
+    },
+    "-NeIDvfMIG0p2bjYKfqI": {
+      "Hum": 12,
+      "Temp": 6
+    },
+    "-NeIDvpAQOpwDv55hUoH": {
+      "Hum": 19,
+      "Temp": 9
+    },
+    "-NeIDvz9sjgDPJYr5doB": {
+      "Hum": 25,
+      "Temp": 7
+    },
+    "-NeIDw7vVTQyfsRHX2MI": {
+      "Hum": 21,
+      "Temp": 4
+    },
+    "-NeIDwUo0KdPSPaBm7NT": {
+      "Hum": 11,
+      "Temp": 1
+    },
+    "-NeIDwkIDfk3FsYnxiqX": {
+      "Hum": 25,
+      "Temp": 2
+    },
+    "-NeIDwu7tvxPw912o_AF": {
+      "Hum": 12,
+      "Temp": 4
+    },
+    "-NeIDx2pFTLQXvb3SOOf": {
+      "Hum": 11,
+      "Temp": 3
+    },
+    "-NeIDxCToGaHatdHHytz": {
+      "Hum": 29,
+      "Temp": 2
+    },
+    "-NeIDxMAKxfKYxm2wMav": {
+      "Hum": 13,
+      "Temp": 9
+    },
+    "-NeIDxVrYFT6xQYM3pW8": {
+      "Hum": 34,
+      "Temp": 3
+    },
+    "-NeIDxf-ij_VYqUOG6uQ": {
+      "Hum": 10,
+      "Temp": 2
+    },
+    "-NeIDxp1T5qeFvPYZVoc": {
+      "Hum": 15,
+      "Temp": 9
+    },
+    "-NeIDxykt6UQFH4poLM7": {
+      "Hum": 42,
+      "Temp": 3
+    },
+    "-NeIDy7RrJKo65rL6p8f": {
+      "Hum": 43,
+      "Temp": 4
+    },
+    "-NeIDyHEGof__ONVkfDb": {
+      "Hum": 33,
+      "Temp": 6
+    },
+    "-NeIDyR2U2sDfZkKb-T6": {
+      "Hum": 44,
+      "Temp": 7
+    },
+    "-NeIDy_sOe4U9yg6Plce": {
+      "Hum": 34,
+      "Temp": 2
+    },
+    "-NeIDyjh9rfDmAfMsv6i": {
+      "Hum": 41,
+      "Temp": 3
+    },
+    "-NeIDytT9wOf_pwhXDpV": {
+      "Hum": 25,
+      "Temp": 2
+    },
+    "-NeIDz2GjqffhdLidDdI": {
+      "Hum": 34,
+      "Temp": 6
+    },
+    "-NeIDzC9dV_rkMTp5KTH": {
+      "Hum": 23,
+      "Temp": 2
+    },
+    "-NeIDzLpJJhauz7BKmqc": {
+      "Hum": 21,
+      "Temp": 2
+    },
+    "-NeIDzVgsH196lYpBkWM": {
+      "Hum": 41,
+      "Temp": 6
+    },
+    "-NeIDzeKAAvApJcoklLK": {
+      "Hum": 45,
+      "Temp": 7
+    },
+    "-NeIDzo2vgRVIZsAiCKQ": {
+      "Hum": 11,
+      "Temp": 3
+    },
+    "-NeIDzxohId9iswwyxUE": {
+      "Hum": 41,
+      "Temp": 5
+    },
+    "-NeIE-7paHB-6Aonqjvh": {
+      "Hum": 21,
+      "Temp": 5
+    },
+    "-NeIE-H_1i9jicbPXlxF": {
+      "Hum": 47,
+      "Temp": 8
+    },
+    "-NeIE-SRLjZhg94Y3lRU": {
+      "Hum": 12,
+      "Temp": 8
+    },
+    "-NeIE-bneB4u5jgUOQ3j": {
+      "Hum": 27,
+      "Temp": 7
+    },
+    "-NeIE-oh8xwRF7IAbjCx": {
+      "Hum": 22,
+      "Temp": 1
+    },
+    "-NeIE-yb5WHxm2DbHcIW": {
+      "Hum": 19,
+      "Temp": 2
+    },
+    "-NeIE07Nq4R1BoFDQq3t": {
+      "Hum": 42,
+      "Temp": 2
+    },
+    "-NeIE0H6hK6lllmONySZ": {
+      "Hum": 46,
+      "Temp": 3
+    },
+    "-NeIE0RKsVim9tIB9xZD": {
+      "Hum": 38,
+      "Temp": 3
+    },
+    "-NeIE0a-UOi-44o4t2B8": {
+      "Hum": 42,
+      "Temp": 1
+    },
+    "-NeIE0k377hWa8Cd8_YC": {
+      "Hum": 27,
+      "Temp": 2
+    },
+    "-NeIE0tr0DRcSKU1wj3e": {
+      "Hum": 45,
+      "Temp": 9
+    },
+    "-NeIE12Zy7hBWfHWxAdw": {
+      "Hum": 41,
+      "Temp": 2
+    },
+    "-NeIE1CHnC7tP38OJN3I": {
+      "Hum": 14,
+      "Temp": 1
+    },
+    "-NeIE1LxRmUjqrb6g0xV": {
+      "Hum": 28,
+      "Temp": 1
+    },
+    "-NeIE1WQpUHG4wNTuGGy": {
+      "Hum": 41,
+      "Temp": 6
+    },
+    "-NeIE1fMAJcpnZI-Nvlw": {
+      "Hum": 43,
+      "Temp": 2
+    },
+    "-NeIE1pAYhcAK3uvm6_5": {
+      "Hum": 36,
+      "Temp": 6
+    },
+    "-NeIE1ywcwnUJtSwztaB": {
+      "Hum": 39,
+      "Temp": 5
+    },
+    "-NeIE28-SdlqSgiJ7zOc": {
+      "Hum": 46,
+      "Temp": 5
+    },
+    "-NeIE2HrZdFhCh3cpr6j": {
+      "Hum": 30,
+      "Temp": 1
+    },
+    "-NeIE2RZGII7F7qDzO3O": {
+      "Hum": 48,
+      "Temp": 3
+    },
+    "-NeIE2aDqtYoazqn99j_": {
+      "Hum": 27,
+      "Temp": 7
+    },
+    "-NeIE2jx7MEDhNKL_PNq": {
+      "Hum": 49,
+      "Temp": 2
+    },
+    "-NeIE2ti8bQuJfS-O-gt": {
+      "Hum": 40,
+      "Temp": 5
+    },
+    "-NeIE32WgEN2Q0loj9qf": {
+      "Hum": 42,
+      "Temp": 3
+    },
+    "-NeIE3CDqmielWEN7L4f": {
+      "Hum": 25,
+      "Temp": 6
+    },
+    "-NeIE3M7W5BHK_m_yf1-": {
+      "Hum": 10,
+      "Temp": 8
+    },
+    "-NeIE3beubWVeKqI8bDD": {
+      "Hum": 24,
+      "Temp": 9
+    },
+    "-NeIE3m81e0SfaahBQvF": {
+      "Hum": 12,
+      "Temp": 4
+    },
+    "-NeIE3w28ImswBz8kE83": {
+      "Hum": 40,
+      "Temp": 6
+    },
+    "-NeIE44qSWdyOb3ZHn64": {
+      "Hum": 41,
+      "Temp": 1
+    },
+    "-NeIE4EgOx3GibKaq0Re": {
+      "Hum": 24,
+      "Temp": 7
+    },
+    "-NeIE4OZoY9w6nQrGs5G": {
+      "Hum": 18,
+      "Temp": 7
+    },
+    "-NeIE4YQ-xqFx_Q0w2ZY": {
+      "Hum": 15,
+      "Temp": 6
+    },
+    "-NeIE4hJf4oRTWEgdeo6": {
+      "Hum": 34,
+      "Temp": 2
+    },
+    "-NeIE4rR8UDWx-ex96wi": {
+      "Hum": 29,
+      "Temp": 9
+    },
+    "-NeIE50ToftMygi99eB0": {
+      "Hum": 22,
+      "Temp": 3
+    },
+    "-NeIE5ARh6f_yHUsaXyW": {
+      "Hum": 45,
+      "Temp": 4
+    },
+    "-NeIE5ZTX9vAlBRjZ6_g": {
+      "Hum": 19,
+      "Temp": 5
+    },
+    "-NeIE5jxLjuL90_y2srU": {
+      "Hum": 47,
+      "Temp": 7
+    },
+    "-NeIE5uBWr4LNG64JbYV": {
+      "Hum": 41,
+      "Temp": 8
+    },
+    "-NeIE63AaFVfrdgku-OC": {
+      "Hum": 15,
+      "Temp": 1
+    },
+    "-NeIE6DOJHDjAaIIrMhh": {
+      "Hum": 11,
+      "Temp": 4
+    },
+    "-NeIE6NehefpfwxBJ91m": {
+      "Hum": 41,
+      "Temp": 4
+    },
+    "-NeIE6XYVkZe_NlazEeI": {
+      "Hum": 36,
+      "Temp": 9
+    },
+    "-NeIE6h--Y_bJ7pkyUX7": {
+      "Hum": 10,
+      "Temp": 6
+    },
+    "-NeIE6qxtXi4xrzOU_Qo": {
+      "Hum": 16,
+      "Temp": 7
+    },
+    "-NeIE701hJK9BaMzxwK1": {
+      "Hum": 36,
+      "Temp": 4
+    },
+    "-NeIE7BQ96Tm7LUTby_9": {
+      "Hum": 46,
+      "Temp": 6
+    },
+    "-NeIE7NI9Mq7x3kmXySN": {
+      "Hum": 21,
+      "Temp": 1
+    },
+    "-NeIE7hcxuig0FWRDKLl": {
+      "Hum": 48,
+      "Temp": 6
+    },
+    "-NeIE7sOVyNZhGaTZPZu": {
+      "Hum": 31,
+      "Temp": 1
+    },
+    "-NeIE86D9Fzzh35vnGOO": {
+      "Hum": 19,
+      "Temp": 9
+    },
+    "-NeIE8G1x8Flzx0rcMSI": {
+      "Hum": 37,
+      "Temp": 2
+    },
+    "-NeIE8Pm75SWmhuVzxfo": {
+      "Hum": 27,
+      "Temp": 5
+    },
+    "-NeIE8_IdW2hUqk7vfDG": {
+      "Hum": 47,
+      "Temp": 2
+    },
+    "-NeIE8jMTmlVJy1ugEWP": {
+      "Hum": 39,
+      "Temp": 9
+    },
+    "-NeIE8t8mKF5xGTLyOsM": {
+      "Hum": 44,
+      "Temp": 3
+    },
+    "-NeIE91uUJ3HHP5h9CQS": {
+      "Hum": 48,
+      "Temp": 4
+    },
+    "-NeIE9BixXvhE5hmlZHf": {
+      "Hum": 15,
+      "Temp": 9
+    },
+    "-NeIE9LvqYCVXhJI2pG_": {
+      "Hum": 28,
+      "Temp": 7
+    },
+    "-NeIE9VmA3x4U6xzM7fq": {
+      "Hum": 19,
+      "Temp": 8
+    },
+    "-NeIE9eZMylVgkbVjGJ5": {
+      "Hum": 14,
+      "Temp": 5
+    },
+    "-NeIE9oPrrQeuOUCAkO1": {
+      "Hum": 25,
+      "Temp": 6
+    },
+    "-NeIE9yFQPOXFFiRreyd": {
+      "Hum": 39,
+      "Temp": 7
+    },
+    "-NeIEA72M-ZVHXKXzZcC": {
+      "Hum": 27,
+      "Temp": 2
+    },
+    "-NeIEAGqp9kg5uqW09U7": {
+      "Hum": 26,
+      "Temp": 9
+    },
+    "-NeIEAQfjj7oHCF8NRq8": {
+      "Hum": 28,
+      "Temp": 2
+    },
+    "-NeIEA_W_FfJ_usyv307": {
+      "Hum": 18,
+      "Temp": 1
+    },
+    "-NeIEAjU1UU12vHVIqEo": {
+      "Hum": 47,
+      "Temp": 6
+    },
+    "-NeIEAtZPo5w8G_EQMSE": {
+      "Hum": 28,
+      "Temp": 4
+    },
+    "-NeIEB2WxRs4uYV64L0T": {
+      "Hum": 42,
+      "Temp": 2
+    },
+    "-NeIEBCHAtScyTm78jiw": {
+      "Hum": 40,
+      "Temp": 6
+    },
+    "-NeIEBM37hPOQOgLmiyp": {
+      "Hum": 37,
+      "Temp": 5
+    },
+    "-NeIEBVp08dErPwiKN__": {
+      "Hum": 42,
+      "Temp": 3
+    },
+    "-NeIEBeeQ9ZRhwaTGdKd": {
+      "Hum": 29,
+      "Temp": 7
+    },
+    "-NeIEBoPxN6_ouTZ3OYS": {
+      "Hum": 31,
+      "Temp": 8
+    },
+    "-NeIEC3tBDbL0TQKzv4z": {
+      "Hum": 22,
+      "Temp": 2
+    },
+    "-NeIECDZ3lXbTwExU3S3": {
+      "Hum": 10,
+      "Temp": 9
+    },
+    "-NeIECNEb-FOFcnF9lvg": {
+      "Hum": 18,
+      "Temp": 9
+    },
+    "-NeIECWpGBKY_O3E7toh": {
+      "Hum": 43,
+      "Temp": 4
+    },
+    "-NeIECfTESircux0UcTK": {
+      "Hum": 10,
+      "Temp": 8
+    },
+    "-NeIECp3Ul5ggGiToRVg": {
+      "Hum": 36,
+      "Temp": 4
+    },
+    "-NeIECygiVUBPIVGZUBC": {
+      "Hum": 15,
+      "Temp": 7
+    },
+    "-NeIED7J4uHJ4Wvx-38V": {
+      "Hum": 35,
+      "Temp": 5
+    },
+    "-NeIEDGwi8rAwSLQPPjB": {
+      "Hum": 49,
+      "Temp": 8
+    },
+    "-NeIEDQcEPkpR90I9cUi": {
+      "Hum": 15,
+      "Temp": 9
+    },
+    "-NeIED_Ie8ysIWOQoHl7": {
+      "Hum": 42,
+      "Temp": 7
+    },
+    "-NeIEDisUln1leJo_V7l": {
+      "Hum": 33,
+      "Temp": 5
+    },
+    "-NeIEDsUJ2PhygwS9wBL": {
+      "Hum": 39,
+      "Temp": 4
+    },
+    "-NeIEE16m1vSIcMLHnbD": {
+      "Hum": 40,
+      "Temp": 6
+    },
+    "-NeIEEAuWNxCnN5wNQLl": {
+      "Hum": 31,
+      "Temp": 2
+    },
+    "-NeIEEKX9JdzddeWXwq9": {
+      "Hum": 47,
+      "Temp": 1
+    },
+    "-NeIEEUCzemKkAm6G1g7": {
+      "Hum": 20,
+      "Temp": 3
+    },
+    "-NeIEEcqsB1BErj9wpof": {
+      "Hum": 43,
+      "Temp": 8
+    },
+    "-NeIEEnob6EHncTPpmKP": {
+      "Hum": 11,
+      "Temp": 2
+    },
+    "-NeIEExZ1pAeswrnXYUG": {
+      "Hum": 27,
+      "Temp": 7
+    },
+    "-NeIEF6Lok5aKgwd9umd": {
+      "Hum": 43,
+      "Temp": 6
+    },
+    "-NeIEFG8_e4LjYZYxlCA": {
+      "Hum": 10,
+      "Temp": 7
+    },
+    "-NeIEFQ8kL8G4qdRRcEF": {
+      "Hum": 15,
+      "Temp": 7
+    },
+    "-NeIEFZp5ie6LbHzVlxD": {
+      "Hum": 27,
+      "Temp": 9
+    },
+    "-NeIEFigSmMM-I8OYfB6": {
+      "Hum": 16,
+      "Temp": 8
+    },
+    "-NeIEG451YfGMkMR-GeY": {
+      "Hum": 38,
+      "Temp": 9
+    },
+    "-NeIEGDid5hznwK2Iy7N": {
+      "Hum": 45,
+      "Temp": 6
+    },
+    "-NeIEGNV5dVshelC5pBC": {
+      "Hum": 28,
+      "Temp": 9
+    },
+    "-NeIEGXAjNhIi42n3nTK": {
+      "Hum": 11,
+      "Temp": 2
+    },
+    "-NeIEGfrvWg7zI8hNcPG": {
+      "Hum": 19,
+      "Temp": 4
+    },
+    "-NeIEGprCAKaglgLrqD0": {
+      "Hum": 25,
+      "Temp": 3
+    },
+    "-NeIEH-2zjQXKap_x75R": {
+      "Hum": 23,
+      "Temp": 5
+    },
+    "-NeIEH8hitVNbszgw0P_": {
+      "Hum": 24,
+      "Temp": 6
+    },
+    "-NeIEHINQv4LF1kVPn2U": {
+      "Hum": 24,
+      "Temp": 9
+    },
+    "-NeIEHS0NkJxc3kwATcK": {
+      "Hum": 22,
+      "Temp": 9
+    },
+    "-NeIEHaaU8yA_reqU7GR": {
+      "Hum": 33,
+      "Temp": 2
+    },
+    "-NeIEHkExSLG-UPvHJ9Z": {
+      "Hum": 26,
+      "Temp": 8
+    },
+    "-NeIEHuEcHzlERJvQwwZ": {
+      "Hum": 38,
+      "Temp": 2
+    },
+    "-NeIEI3B4KTQDTK079bc": {
+      "Hum": 32,
+      "Temp": 9
+    },
+    "-NeIEICvgtVNDVUNsy7P": {
+      "Hum": 46,
+      "Temp": 1
+    },
+    "-NeIEIMfHRX2EUz3DZ0Z": {
+      "Hum": 33,
+      "Temp": 4
+    },
+    "-NeIEIWTPNQv-lTYRvTX": {
+      "Hum": 42,
+      "Temp": 7
+    },
+    "-NeIEIfECDKyx_tl3bba": {
+      "Hum": 14,
+      "Temp": 9
+    },
+    "-NeIEIp74som-8qTwPto": {
+      "Hum": 45,
+      "Temp": 9
+    },
+    "-NeIEIyv44-G2De7rLLp": {
+      "Hum": 13,
+      "Temp": 6
+    },
+    "-NeIEJ7e1LmGsbymFJuK": {
+      "Hum": 48,
+      "Temp": 1
+    },
+    "-NeIEJHRW1FEc5P-JdzU": {
+      "Hum": 29,
+      "Temp": 5
+    },
+    "-NeIEJRDlSlmqV1af2F1": {
+      "Hum": 37,
+      "Temp": 2
+    },
+    "-NeIEJ_ryGueMQC_d2NU": {
+      "Hum": 44,
+      "Temp": 7
+    },
+    "-NeIEJk7frX-UTecp5uk": {
+      "Hum": 28,
+      "Temp": 6
+    },
+    "-NeIEJzp_w3NuiP5gDe3": {
+      "Hum": 18,
+      "Temp": 9
+    },
+    "-NeIEK8F8rNf7zSNeI9h": {
+      "Hum": 32,
+      "Temp": 7
+    },
+    "-NeIEKHtZjtm6VXxAhEH": {
+      "Hum": 44,
+      "Temp": 7
+    },
+    "-NeIEKRCWY9Q2cWIPxcy": {
+      "Hum": 37,
+      "Temp": 9
+    },
+    "-NeIEK_jPCMcCLxtvwsl": {
+      "Hum": 16,
+      "Temp": 4
+    },
+    "-NeIEKjEmd07oQF0363S": {
+      "Hum": 34,
+      "Temp": 3
+    },
+    "-NeIEKsirsxOztipUkJM": {
+      "Hum": 15,
+      "Temp": 7
+    },
+    "-NeIEL1EWrWpTU0yVe1v": {
+      "Hum": 44,
+      "Temp": 5
+    },
+    "-NeIELAbF0zpzP67onB_": {
+      "Hum": 24,
+      "Temp": 5
+    },
+    "-NeIELKBgqmpi4fldRss": {
+      "Hum": 26,
+      "Temp": 8
+    },
+    "-NeIELTomyIw0ROcGuTd": {
+      "Hum": 39,
+      "Temp": 1
+    },
+    "-NeIELc8NXTPFnf0BQ3X": {
+      "Hum": 42,
+      "Temp": 1
+    },
+    "-NeIELlgLgqbliP0aN6g": {
+      "Hum": 39,
+      "Temp": 7
+    },
+    "-NeIELwgCp791DitWTUP": {
+      "Hum": 17,
+      "Temp": 3
+    },
+    "-NeIEM66vi9P-N7Qh-az": {
+      "Hum": 27,
+      "Temp": 9
+    },
+    "-NeIEMGmqGQabPNNf1T3": {
+      "Hum": 32,
+      "Temp": 5
+    },
+    "-NeIEMRKRdREz6iHzov_": {
+      "Hum": 38,
+      "Temp": 4
+    },
+    "-NeIEMb0WHtc0F62eiGf": {
+      "Hum": 42,
+      "Temp": 2
+    },
+    "-NeIEMkTvw1GSfHdj6PR": {
+      "Hum": 38,
+      "Temp": 6
+    },
+    "-NeIEMu1waVjLEHeju7j": {
+      "Hum": 10,
+      "Temp": 1
+    },
+    "-NeIEN2ZXT9Uc_28otUq": {
+      "Hum": 29,
+      "Temp": 5
+    },
+    "-NeIENDB0oxvGGREBsMJ": {
+      "Hum": 37,
+      "Temp": 2
+    },
+    "-NeIENMksuOyq-fNLYuX": {
+      "Hum": 36,
+      "Temp": 4
+    },
+    "-NeIENWFzYhb_pZ96Dvt": {
+      "Hum": 18,
+      "Temp": 5
+    },
+    "-NeIENev_wXdIcXoGUe5": {
+      "Hum": 11,
+      "Temp": 1
+    },
+    "-NeIENoJzyjohwwgx2Vl": {
+      "Hum": 27,
+      "Temp": 2
+    },
+    "-NeIENxgDDWNm-xS4fNw": {
+      "Hum": 35,
+      "Temp": 7
+    },
+    "-NeIEO6gHvdI1hhTyRYy": {
+      "Hum": 10,
+      "Temp": 3
+    },
+    "-NeIEOGgjKCGuAlna5uh": {
+      "Hum": 32,
+      "Temp": 1
+    },
+    "-NeIEOQHVKRbVhRqX0D0": {
+      "Hum": 16,
+      "Temp": 8
+    },
+    "-NeIEO_BZnPHH-NrlnjM": {
+      "Hum": 22,
+      "Temp": 8
+    },
+    "-NeIEOiqcHpD4kVB38zt": {
+      "Hum": 19,
+      "Temp": 2
+    },
+    "-NeIEOsLo19batWOAfuN": {
+      "Hum": 43,
+      "Temp": 4
+    },
+    "-NeIEP1Vwob1HLWjyWqR": {
+      "Hum": 47,
+      "Temp": 7
+    },
+    "-NeIEPBSgTiPRUNF125y": {
+      "Hum": 24,
+      "Temp": 2
+    },
+    "-NeIEPM-YJIQV8QXN9Xq": {
+      "Hum": 39,
+      "Temp": 5
+    },
+    "-NeIEPkViZX9E88PEEWh": {
+      "Hum": 38,
+      "Temp": 9
+    },
+    "-NeIEPtof2ggPAys6s17": {
+      "Hum": 45,
+      "Temp": 7
+    },
+    "-NeIEQ2ikKIvvFwZDwIE": {
+      "Hum": 22,
+      "Temp": 4
+    },
+    "-NeIEQCS1j_8y0dPRDzY": {
+      "Hum": 15,
+      "Temp": 7
+    },
+    "-NeIEQLwzytHrHgTW_2u": {
+      "Hum": 36,
+      "Temp": 5
+    },
+    "-NeIEQW8gXQEpqCGInzd": {
+      "Hum": 44,
+      "Temp": 2
+    },
+    "-NeIEQexQojRJ1jrlL3u": {
+      "Hum": 16,
+      "Temp": 7
+    },
+    "-NeIEQobee3U03V1OXSY": {
+      "Hum": 43,
+      "Temp": 1
+    },
+    "-NeIEQy2X21VvXmsuQOT": {
+      "Hum": 29,
+      "Temp": 3
+    },
+    "-NeIER6ZZm0y7Z0A0TzW": {
+      "Hum": 36,
+      "Temp": 4
+    },
+    "-NeIERFuyGKUZ9OHCOhY": {
+      "Hum": 41,
+      "Temp": 2
+    },
+    "-NeIERPJTZxz0_z8zmM3": {
+      "Hum": 23,
+      "Temp": 9
+    },
+    "-NeIERYkvwxtZ-D0WrZq": {
+      "Hum": 11,
+      "Temp": 6
+    },
+    "-NeIERhFOV1e8KCu7Hv4": {
+      "Hum": 14,
+      "Temp": 8
+    },
+    "-NeIERx9V7Yc61ml-iY4": {
+      "Hum": 32,
+      "Temp": 2
+    },
+    "-NeIES62uNzQPsGNeiCd": {
+      "Hum": 48,
+      "Temp": 9
+    },
+    "-NeIESG1tMrKNnLsNZLm": {
+      "Hum": 40,
+      "Temp": 5
+    },
+    "-NeIESQ1t8vGvhtq-xbH": {
+      "Hum": 24,
+      "Temp": 5
+    },
+    "-NeIES_-RHSIcEum8da_": {
+      "Hum": 36,
+      "Temp": 8
+    },
+    "-NeIESirjsb8gg8UWzhA": {
+      "Hum": 23,
+      "Temp": 5
+    },
+    "-NeIESso5ZwD7N-1k-Ok": {
+      "Hum": 46,
+      "Temp": 7
+    },
+    "-NeIET1hUOOmLDbcKpND": {
+      "Hum": 40,
+      "Temp": 6
+    },
+    "-NeIETC62FX6DGkRenTF": {
+      "Hum": 15,
+      "Temp": 5
+    },
+    "-NeIETM5qmrmGmwaG8_w": {
+      "Hum": 36,
+      "Temp": 3
+    },
+    "-NeIETWBNAUON4pf3N0D": {
+      "Hum": 27,
+      "Temp": 5
+    },
+    "-NeIETf2lY3afJ3kXaJk": {
+      "Hum": 13,
+      "Temp": 1
+    },
+    "-NeIETpBOluMIq_9EoNd": {
+      "Hum": 44,
+      "Temp": 2
+    },
+    "-NeIETz6CI6SuDwHYvoF": {
+      "Hum": 40,
+      "Temp": 3
+    },
+    "-NeIEU8-HeVzs-u6tmqC": {
+      "Hum": 45,
+      "Temp": 5
+    },
+    "-NeIEUICY_iKA7Z1Rvjc": {
+      "Hum": 34,
+      "Temp": 7
+    },
+    "-NeIEUS7FeTqPvV-s47Q": {
+      "Hum": 35,
+      "Temp": 7
+    },
+    "-NeIEUb28-cQWdFbD7Os": {
+      "Hum": 13,
+      "Temp": 6
+    },
+    "-NeIEUl09wQRREADPZsJ": {
+      "Hum": 40,
+      "Temp": 2
+    },
+    "-NeIEUw2UZVTR3UD9jPH": {
+      "Hum": 40,
+      "Temp": 4
+    },
+    "-NeIEV4xO1ttCdjDouOG": {
+      "Hum": 45,
+      "Temp": 8
+    },
+    "-NeIEVErxFWP-m6KIxf4": {
+      "Hum": 11,
+      "Temp": 6
+    },
+    "-NeIEVP8M06QQLD1va1H": {
+      "Hum": 25,
+      "Temp": 7
+    },
+    "-NeIEVZLZk4rt4VaMeht": {
+      "Hum": 12,
+      "Temp": 8
+    },
+    "-NeIEViDMq_MUNeRktf2": {
+      "Hum": 11,
+      "Temp": 3
+    },
+    "-NeIEVs6PU1CJ2NXYkSg": {
+      "Hum": 47,
+      "Temp": 7
+    },
+    "-NeIEW1QzorFLLHmIs4H": {
+      "Hum": 15,
+      "Temp": 8
+    },
+    "-NeIEWCSUGbG3IqZmfgo": {
+      "Hum": 36,
+      "Temp": 2
+    },
+    "-NeIEWNLHEzd172vz3g_": {
+      "Hum": 41,
+      "Temp": 1
+    },
+    "-NeIEWYGaT3QguWjQlGf": {
+      "Hum": 33,
+      "Temp": 7
+    },
+    "-NeIEWhl_o8pIHytYqaW": {
+      "Hum": 22,
+      "Temp": 9
+    },
+    "-NeIEWsJaQpXCtf1UMDf": {
+      "Hum": 44,
+      "Temp": 9
+    },
+    "-NeIEX1HCC92oOjrhtYg": {
+      "Hum": 22,
+      "Temp": 5
+    },
+    "-NeIEXBE1WTrKNN89jwd": {
+      "Hum": 17,
+      "Temp": 9
+    },
+    "-NeIEXLBraMOSVcyF7lw": {
+      "Hum": 20,
+      "Temp": 8
+    },
+    "-NeIEXV7RVSRhEPLMoaq": {
+      "Hum": 43,
+      "Temp": 4
+    },
+    "-NeIEXeEhvZt4VTmhngi": {
+      "Hum": 28,
+      "Temp": 1
+    },
+    "-NeIEXoO_edljs3HMoSJ": {
+      "Hum": 11,
+      "Temp": 7
+    },
+    "-NeIEXyfxJwNS-rLZv_M": {
+      "Hum": 31,
+      "Temp": 2
+    },
+    "-NeIEY7f3Ugyo7xw6-Qi": {
+      "Hum": 17,
+      "Temp": 5
+    },
+    "-NeIEYIPHyEvykp_RcyL": {
+      "Hum": 17,
+      "Temp": 7
+    },
+    "-NeIEYahDvNSbGXKg0zT": {
+      "Hum": 10,
+      "Temp": 7
+    },
+    "-NeIEYkp7_4rGwFRETin": {
+      "Hum": 36,
+      "Temp": 5
+    },
+    "-NeIEYvLmGMeT_6yZsv5": {
+      "Hum": 21,
+      "Temp": 3
+    },
+    "-NeIEZ4NYh4QHON1vHVJ": {
+      "Hum": 28,
+      "Temp": 5
+    },
+    "-NeIEZEfNGsgtSrDmfzo": {
+      "Hum": 22,
+      "Temp": 6
+    },
+    "-NeIEZOu4RYMzQQ-1aWo": {
+      "Hum": 27,
+      "Temp": 5
+    },
+    "-NeIEZZANDLHUCWTekH_": {
+      "Hum": 48,
+      "Temp": 4
+    },
+    "-NeIEZihddo9rycDF9-x": {
+      "Hum": 35,
+      "Temp": 7
+    },
+    "-NeIEZt2jxoXyOCo21Tj": {
+      "Hum": 46,
+      "Temp": 6
+    },
+    "-NeIE_8_SAc7Od5AIwhG": {
+      "Hum": 29,
+      "Temp": 8
+    },
+    "-NeIE_IDGVepNVlbjIQr": {
+      "Hum": 36,
+      "Temp": 5
+    },
+    "-NeIE_SIIGkaM7H7SLDB": {
+      "Hum": 12,
+      "Temp": 3
+    },
+    "-NeIE_cGh0VbE3lg4pjq": {
+      "Hum": 15,
+      "Temp": 2
+    },
+    "-NeIE_xqmI20au-1XiyA": {
+      "Hum": 16,
+      "Temp": 4
+    },
+    "-NeIEaIJPMcegAgpiSXS": {
+      "Hum": 13,
+      "Temp": 9
+    },
+    "-NeIEaTim6O8pf_tez3i": {
+      "Hum": 37,
+      "Temp": 9
+    },
+    "-NeIEacYyF2K7V5DJMLR": {
+      "Hum": 30,
+      "Temp": 8
+    },
+    "-NeIEamSV5Bw_yUI2geg": {
+      "Hum": 22,
+      "Temp": 7
+    },
+    "-NeIEawF6f3b8kN7oExR": {
+      "Hum": 11,
+      "Temp": 2
+    },
+    "-NeIEb5_BoS3zZGTypkY": {
+      "Hum": 32,
+      "Temp": 7
+    },
+    "-NeIEbFJsprm6DDcG9G5": {
+      "Hum": 41,
+      "Temp": 9
+    },
+    "-NeIEbOpRdY1S38B9J4w": {
+      "Hum": 31,
+      "Temp": 4
+    },
+    "-NeIEbYNByRx3egx_5a_": {
+      "Hum": 47,
+      "Temp": 6
+    },
+    "-NeIEbh5HiQOakt71sgZ": {
+      "Hum": 18,
+      "Temp": 8
+    },
+    "-NeIEbrFdbkW9WjVMYvA": {
+      "Hum": 41,
+      "Temp": 3
+    },
+    "-NeIEc-q_EqpNBoIU656": {
+      "Hum": 20,
+      "Temp": 1
+    },
+    "-NeIEc9OGNgBkUGZswBK": {
+      "Hum": 48,
+      "Temp": 6
+    },
+    "-NeIEcJk4CxO5GzYPT61": {
+      "Hum": 41,
+      "Temp": 7
+    },
+    "-NeIEcTyfVfjjDE7QME5": {
+      "Hum": 49,
+      "Temp": 2
+    },
+    "-NeIEcd0qmXU5S-bOKuL": {
+      "Hum": 19,
+      "Temp": 6
+    },
+    "-NeIEcnlqAirfJkxpKoK": {
+      "Hum": 33,
+      "Temp": 9
+    },
+    "-NeIEd0gH4-rZtD4tW9y": {
+      "Hum": 10,
+      "Temp": 4
+    },
+    "-NeIEdATN30BmnbCNGAV": {
+      "Hum": 43,
+      "Temp": 7
+    },
+    "-NeIEdKPN7Pa-IJ8Y8FY": {
+      "Hum": 37,
+      "Temp": 6
+    },
+    "-NeIEdUKuPwtE2LEjUwU": {
+      "Hum": 10,
+      "Temp": 4
+    },
+    "-NeIEdd12U6wvWKTnTEq": {
+      "Hum": 37,
+      "Temp": 7
+    },
+    "-NeIEdmgHX1rjYltJ1_n": {
+      "Hum": 36,
+      "Temp": 4
+    },
+    "-NeIEdw1ShxFUfIx-B5n": {
+      "Hum": 27,
+      "Temp": 3
+    },
+    "-NeIEe4_7bbmtcvrPjpn": {
+      "Hum": 22,
+      "Temp": 5
+    },
+    "-NeIEeDx4iVFn8Q01rrj": {
+      "Hum": 36,
+      "Temp": 8
+    },
+    "-NeIEeNGq8s5lgtwHStR": {
+      "Hum": 12,
+      "Temp": 5
+    },
+    "-NeIEeWbEED2-sGRodGU": {
+      "Hum": 26,
+      "Temp": 2
+    },
+    "-NeIEef-gHUBNsjRHQ-0": {
+      "Hum": 27,
+      "Temp": 5
+    },
+    "-NeIEeoYseAKy007bazP": {
+      "Hum": 34,
+      "Temp": 3
+    },
+    "-NeIEexto081Dz5ppJuZ": {
+      "Hum": 42,
+      "Temp": 4
+    },
+    "-NeIEf6RAnkjmqbiG5q6": {
+      "Hum": 16,
+      "Temp": 2
+    },
+    "-NeIEfG7nMf2g3ShXVML": {
+      "Hum": 32,
+      "Temp": 7
+    },
+    "-NeIEfPjYx2uu9xDbAYg": {
+      "Hum": 31,
+      "Temp": 6
+    },
+    "-NeIEfZiOSPOe3RRcUlS": {
+      "Hum": 18,
+      "Temp": 2
+    },
+    "-NeIEfiMZNke9jRsG5p5": {
+      "Hum": 25,
+      "Temp": 7
+    },
+    "-NeIEfrgpa--pxYnYRvx": {
+      "Hum": 38,
+      "Temp": 8
+    },
+    "-NeIEg01lCcGgJDwukyd": {
+      "Hum": 42,
+      "Temp": 4
+    },
+    "-NeIEg9cZB8dWZbarSbz": {
+      "Hum": 16,
+      "Temp": 1
+    },
+    "-NeIEgJe6jg8YCZHejoU": {
+      "Hum": 35,
+      "Temp": 3
+    },
+    "-NeIEgTUKjtFqL04G_LH": {
+      "Hum": 44,
+      "Temp": 6
+    },
+    "-NeIEgd3BPTh1qPeEmj9": {
+      "Hum": 23,
+      "Temp": 1
+    },
+    "-NeIEgoKIAhVXvYAaxn_": {
+      "Hum": 25,
+      "Temp": 3
+    },
+    "-NeIEgybMAeGNFXHcmug": {
+      "Hum": 41,
+      "Temp": 6
+    },
+    "-NeIEh82D4_-qfXywk0a": {
+      "Hum": 35,
+      "Temp": 1
+    },
+    "-NeIEhQq7uJXRChSB6Jm": {
+      "Hum": 16,
+      "Temp": 1
+    },
+    "-NeIEhmTNyudLy6_9r_e": {
+      "Hum": 19,
+      "Temp": 8
+    },
+    "-NeIEhxyF-wKNx1B-FqM": {
+      "Hum": 17,
+      "Temp": 8
+    },
+    "-NeIEi6jXsDA9R5lWKMk": {
+      "Hum": 28,
+      "Temp": 5
+    },
+    "-NeIEiGOpHYMV41QiikO": {
+      "Hum": 37,
+      "Temp": 9
+    },
+    "-NeIEiQ5IhEMvtTJdJwQ": {
+      "Hum": 22,
+      "Temp": 2
+    },
+    "-NeIEi_C11JkMOSqV4bm": {
+      "Hum": 45,
+      "Temp": 4
+    },
+    "-NeIEij3Duk-IK3hnWnc": {
+      "Hum": 28,
+      "Temp": 8
+    },
+    "-NeIEisn3ZNosu22AwjV": {
+      "Hum": 25,
+      "Temp": 3
+    },
+    "-NeIEj1KziB63crpuIUc": {
+      "Hum": 13,
+      "Temp": 9
+    },
+    "-NeIEjAtldhyC_CfbGlY": {
+      "Hum": 17,
+      "Temp": 6
+    },
+    "-NeIEjKiCzp5Hg_3gnGf": {
+      "Hum": 12,
+      "Temp": 1
+    },
+    "-NeIEjUCIYvhpgq-pcLW": {
+      "Hum": 32,
+      "Temp": 8
+    },
+    "-NeIEjd046_Xs8z-4BNe": {
+      "Hum": 22,
+      "Temp": 7
+    },
+    "-NeIEjmkguFVK2RJnqn9": {
+      "Hum": 17,
+      "Temp": 9
+    },
+    "-NeIEjwSW-zjluYMJf1A": {
+      "Hum": 35,
+      "Temp": 9
+    },
+    "-NeIEk50fuVz_UYjyDK1": {
+      "Hum": 30,
+      "Temp": 8
+    },
+    "-NeIEkEL3bwWuGhZZZsf": {
+      "Hum": 35,
+      "Temp": 1
+    },
+    "-NeIEkOFNvWe1_2wylPV": {
+      "Hum": 30,
+      "Temp": 9
+    },
+    "-NeIEkXdDK7jtkQ45nXt": {
+      "Hum": 39,
+      "Temp": 8
+    },
+    "-NeIEkgBgRRxBh2kGXce": {
+      "Hum": 21,
+      "Temp": 1
+    },
+    "-NeIEkplLkviQxM8VMJb": {
+      "Hum": 27,
+      "Temp": 9
+    },
+    "-NeIEkz478I7WAO3eRID": {
+      "Hum": 48,
+      "Temp": 1
+    },
+    "-NeIEl7ckJglrxgH5kPY": {
+      "Hum": 39,
+      "Temp": 1
+    },
+    "-NeIElH3cZjSeHkN8QAd": {
+      "Hum": 49,
+      "Temp": 6
+    },
+    "-NeIElQQ67PYGGlxMbhJ": {
+      "Hum": 33,
+      "Temp": 8
+    },
+    "-NeIElZh7KvmXA7BjraX": {
+      "Hum": 15,
+      "Temp": 8
+    },
+    "-NeIEli33G4zuBW_DKyG": {
+      "Hum": 46,
+      "Temp": 2
+    },
+    "-NeIElrMg1xXL2qEr7rw": {
+      "Hum": 47,
+      "Temp": 2
+    },
+    "-NeIEm-kJN1y0W8fyPRq": {
+      "Hum": 26,
+      "Temp": 6
+    },
+    "-NeIEm93lwFJS6Xi0ubc": {
+      "Hum": 40,
+      "Temp": 4
+    },
+    "-NeIEmIQbzYnAi4sSqUz": {
+      "Hum": 27,
+      "Temp": 4
+    },
+    "-NeIEmRlNgk5JGzLqQ5w": {
+      "Hum": 24,
+      "Temp": 8
+    },
+    "-NeIEmaNex3s9SviLtIF": {
+      "Hum": 17,
+      "Temp": 1
+    },
+    "-NeIEmm749x76dezbsGy": {
+      "Hum": 13,
+      "Temp": 8
+    },
+    "-NeIEmvfbqopphXXoIEe": {
+      "Hum": 48,
+      "Temp": 2
+    },
+    "-NeIEn4GZ0PKCIVdVFeS": {
+      "Hum": 33,
+      "Temp": 4
+    },
+    "-NeIEnE-nzt0HxCVG2ts": {
+      "Hum": 44,
+      "Temp": 4
+    },
+    "-NeIEnNc7FOgEdvOr8zp": {
+      "Hum": 11,
+      "Temp": 2
+    },
+    "-NeIEnX6xyWmQ4OqXbzp": {
+      "Hum": 14,
+      "Temp": 8
+    },
+    "-NeIEnff87i6RJvcS_yq": {
+      "Hum": 40,
+      "Temp": 2
+    },
+    "-NeIEnpAoupsdl_IzNHr": {
+      "Hum": 40,
+      "Temp": 5
+    },
+    "-NeIEnykHwrbY31qJvfO": {
+      "Hum": 42,
+      "Temp": 5
+    },
+    "-NeIEo8H6nG82N1wLWcX": {
+      "Hum": 35,
+      "Temp": 2
+    },
+    "-NeIEoIoajzX4mYVpu27": {
+      "Hum": 15,
+      "Temp": 6
+    },
+    "-NeIEoUO4-2m9EzS_lSJ": {
+      "Hum": 41,
+      "Temp": 7
+    },
+    "-NeIEoe0lCo-RUd1v670": {
+      "Hum": 20,
+      "Temp": 3
+    },
+    "-NeIEou1Lv2Pw_TQCy99": {
+      "Hum": 28,
+      "Temp": 5
+    },
+    "-NeIEp2hJJKJPoe_Zmmb": {
+      "Hum": 12,
+      "Temp": 2
+    },
+    "-NeIEpCEQBWQ1InHorxF": {
+      "Hum": 30,
+      "Temp": 3
+    },
+    "-NeIEpT81Mot9I8AYlCO": {
+      "Hum": 26,
+      "Temp": 8
+    },
+    "-NeIEpbmiGi7GqeQl8nO": {
+      "Hum": 17,
+      "Temp": 8
+    },
+    "-NeIEpl_i8wDEu0PE7-l": {
+      "Hum": 26,
+      "Temp": 7
+    },
+    "-NeIEpvIPBn5NTPBu59-": {
+      "Hum": 20,
+      "Temp": 2
+    },
+    "-NeIEq4BvwkN58yUmkIf": {
+      "Hum": 32,
+      "Temp": 3
+    },
+    "-NeIEqDzzqVMHsvF4cd1": {
+      "Hum": 15,
+      "Temp": 1
+    },
+    "-NeIEqNg-NopWUDpgwzq": {
+      "Hum": 30,
+      "Temp": 9
+    },
+    "-NeIEqXXJ4ZWGpHEiDb4": {
+      "Hum": 32,
+      "Temp": 9
+    },
+    "-NeIEqgH8wnrC48QTQyS": {
+      "Hum": 10,
+      "Temp": 8
+    },
+    "-NeIEqq8AIFka8zx9oc5": {
+      "Hum": 28,
+      "Temp": 4
+    },
+    "-NeIEqzwj7DFUkwv27gG": {
+      "Hum": 31,
+      "Temp": 3
+    },
+    "-NeIEr8x1_QOujbE-Nx4": {
+      "Hum": 47,
+      "Temp": 2
+    },
+    "-NeIErJ689yS3VLImnSq": {
+      "Hum": 40,
+      "Temp": 4
+    },
+    "-NeIErgC33h0rUENj_vI": {
+      "Hum": 26,
+      "Temp": 4
+    },
+    "-NeIErr6WMiE4cLLROLW": {
+      "Hum": 17,
+      "Temp": 4
+    },
+    "-NeIEs1NWCCOJwjiZ63g": {
+      "Hum": 27,
+      "Temp": 2
+    },
+    "-NeIEsB3GhTnIhL54hrz": {
+      "Hum": 46,
+      "Temp": 9
+    },
+    "-NeIEsKtAD4PHVoO0cUr": {
+      "Hum": 41,
+      "Temp": 5
+    },
+    "-NeIEsU_V30uI49y2Dgg": {
+      "Hum": 49,
+      "Temp": 5
+    },
+    "-NeIEsdD9RUOQdjRNe4r": {
+      "Hum": 18,
+      "Temp": 7
+    },
+    "-NeIEsmrCfgXTXl5jyB5": {
+      "Hum": 41,
+      "Temp": 7
+    },
+    "-NeIEswnBriI0NC7BADE": {
+      "Hum": 20,
+      "Temp": 1
+    },
+    "-NeIEt5dAPvXM_JvmXXY": {
+      "Hum": 31,
+      "Temp": 3
+    },
+    "-NeIEtFNdppNnuNxih37": {
+      "Hum": 11,
+      "Temp": 8
+    },
+    "-NeIEtPL1l_QlFItKEVv": {
+      "Hum": 13,
+      "Temp": 3
+    },
+    "-NeIEtZKyERUxlVDgQB3": {
+      "Hum": 19,
+      "Temp": 3
+    },
+    "-NeIEtieo6DATbcRt5zp": {
+      "Hum": 19,
+      "Temp": 9
+    },
+    "-NeIEtsZ2rwG8gnkOQaN": {
+      "Hum": 37,
+      "Temp": 8
+    },
+    "-NeIEu2AdFh7DpwTtNqe": {
+      "Hum": 26,
+      "Temp": 5
+    },
+    "-NeIEuCARI4_7fVhl-sQ": {
+      "Hum": 36,
+      "Temp": 6
+    },
+    "-NeIEuM6iyNwm7O4jDng": {
+      "Hum": 45,
+      "Temp": 6
+    },
+    "-NeIEuVvpQiPkTaG_U2V": {
+      "Hum": 37,
+      "Temp": 1
+    },
+    "-NeIEueekd9urlTSU-sO": {
+      "Hum": 32,
+      "Temp": 7
+    },
+    "-NeIEuoRp9Y_amYi-lLp": {
+      "Hum": 40,
+      "Temp": 2
+    },
+    "-NeIEuy9Hx_7WxVjXTlP": {
+      "Hum": 40,
+      "Temp": 9
+    },
+    "-NeIEv6pvjuDnU7NAUnC": {
+      "Hum": 36,
+      "Temp": 9
+    },
+    "-NeIEvGakpgyphT9Cj5x": {
+      "Hum": 45,
+      "Temp": 1
+    },
+    "-NeIEvQQOfHdTqNQZly_": {
+      "Hum": 11,
+      "Temp": 5
+    },
+    "-NeIEv_6EG646mhslOHe": {
+      "Hum": 24,
+      "Temp": 3
+    },
+    "-NeIEvip0tI-8YNr5pi7": {
+      "Hum": 36,
+      "Temp": 4
+    },
+    "-NeIEvs_WoDUFinlIyAj": {
+      "Hum": 48,
+      "Temp": 1
+    },
+    "-NeIEw1Jc-iF_lrNtjsi": {
+      "Hum": 13,
+      "Temp": 5
+    },
+    "-NeIEwB-JUPKvD1vp_NL": {
+      "Hum": 35,
+      "Temp": 3
+    },
+    "-NeIEwL6OoAHL5JAiV0t": {
+      "Hum": 20,
+      "Temp": 7
+    },
+    "-NeIEwUzJdrEZIauVSjL": {
+      "Hum": 14,
+      "Temp": 1
+    },
+    "-NeIEwe6kRg5wBPvl5nh": {
+      "Hum": 32,
+      "Temp": 7
+    },
+    "-NeIEwnmUXbXE7-M1QpL": {
+      "Hum": 31,
+      "Temp": 8
+    },
+    "-NeIEwxslpEqxA_K2jYd": {
+      "Hum": 13,
+      "Temp": 8
+    },
+    "-NeIEx6Sam-ed-po9RKH": {
+      "Hum": 25,
+      "Temp": 5
+    },
+    "-NeIExFybh5vtzOpr25Q": {
+      "Hum": 26,
+      "Temp": 6
+    },
+    "-NeIExVGV9fu8NQ3KM3d": {
+      "Hum": 37,
+      "Temp": 7
+    },
+    "-NeIExdkXmNwDW-2fejD": {
+      "Hum": 44,
+      "Temp": 1
+    },
+    "-NeIExnCC2RXKjkrjtE4": {
+      "Hum": 16,
+      "Temp": 7
+    },
+    "-NeIExwgRUhPQpcZWBVd": {
+      "Hum": 14,
+      "Temp": 4
+    },
+    "-NeIEy55WmrHPcHimyWz": {
+      "Hum": 16,
+      "Temp": 9
+    },
+    "-NeIEyEj6Q9XndtgXwXW": {
+      "Hum": 15,
+      "Temp": 5
+    },
+    "-NeIEyOPaWdNlG4QiFuN": {
+      "Hum": 11,
+      "Temp": 1
+    },
+    "-NeIEyY6bOjc3xMld0zb": {
+      "Hum": 41,
+      "Temp": 1
+    },
+    "-NeIEyh0tljdNDLi4TsB": {
+      "Hum": 45,
+      "Temp": 4
+    },
+    "-NeIEyrDACjXWD2rmXE8": {
+      "Hum": 20,
+      "Temp": 7
+    },
+    "-NeIEz0PLNzIQEQu4SzU": {
+      "Hum": 38,
+      "Temp": 9
+    },
+    "-NeIEzA_HKMRA8L4u_Bc": {
+      "Hum": 18,
+      "Temp": 9
+    },
+    "-NeIEzKLxhJpVMQlibH6": {
+      "Hum": 29,
+      "Temp": 6
+    },
+    "-NeIEzU33jyA97jcap_W": {
+      "Hum": 10,
+      "Temp": 6
+    },
+    "-NeIEzcfYPYBwyJPV-pD": {
+      "Hum": 27,
+      "Temp": 8
+    },
+    "-NeIEzmFeRlOXFT4IKvO": {
+      "Hum": 25,
+      "Temp": 1
+    },
+    "-NeIEzwANsiCwog5ZavT": {
+      "Hum": 30,
+      "Temp": 2
+    },
+    "-NeIF-5YpxyoJupsNAPz": {
+      "Hum": 20,
+      "Temp": 7
+    },
+    "-NeIF-FJpjv9mDvILUpV": {
+      "Hum": 14,
+      "Temp": 8
+    },
+    "-NeIF-PGKYl8sFiLtDId": {
+      "Hum": 34,
+      "Temp": 9
+    },
+    "-NeIF-Ywmwpo45bXWVIK": {
+      "Hum": 26,
+      "Temp": 4
+    },
+    "-NeIF-hTZ0SCj0E-nzWl": {
+      "Hum": 28,
+      "Temp": 6
+    },
+    "-NeIF-vQl6pakhJ-4AkU": {
+      "Hum": 42,
+      "Temp": 8
+    },
+    "-NeIF03zE_SzvZQ15Xux": {
+      "Hum": 37,
+      "Temp": 6
+    },
+    "-NeIF0EHWQglSQVROjP6": {
+      "Hum": 44,
+      "Temp": 1
+    },
+    "-NeIF0NhRCmDAQCfGaD-": {
+      "Hum": 43,
+      "Temp": 1
+    },
+    "-NeIF0XA2oQKIp3l_rSQ": {
+      "Hum": 26,
+      "Temp": 2
+    },
+    "-NeIF0ffzZYWCnFZIFur": {
+      "Hum": 28,
+      "Temp": 1
+    },
+    "-NeIF0p7vqyWxa3b-Q-j": {
+      "Hum": 20,
+      "Temp": 9
+    },
+    "-NeIF0yfLxTk1n-CdyBO": {
+      "Hum": 28,
+      "Temp": 8
+    },
+    "-NeIF178tUOgwcOacSdS": {
+      "Hum": 37,
+      "Temp": 4
+    },
+    "-NeIF1R5buulPSYMnjdE": {
+      "Hum": 25,
+      "Temp": 9
+    },
+    "-NeIF1_Wnino51yW92UX": {
+      "Hum": 31,
+      "Temp": 1
+    },
+    "-NeIF1k8_pumo2z7Ftvi": {
+      "Hum": 42,
+      "Temp": 1
+    },
+    "-NeIF1yYCydJBF6Tkw-m": {
+      "Hum": 27,
+      "Temp": 8
+    },
+    "-NeIF28NcBn5P3aDZjoQ": {
+      "Hum": 49,
+      "Temp": 3
+    },
+    "-NeIF2IsMYH93rLJbOyx": {
+      "Hum": 26,
+      "Temp": 2
+    },
+    "-NeIF2TfT8Sxjsb-PxBx": {
+      "Hum": 28,
+      "Temp": 9
+    },
+    "-NeIF2cS_bn6D1WlaY5V": {
+      "Hum": 22,
+      "Temp": 4
+    },
+    "-NeIF2lrDre56sdtEJz9": {
+      "Hum": 37,
+      "Temp": 2
+    },
+    "-NeIF2vdd2ReAmhoJFNb": {
+      "Hum": 11,
+      "Temp": 9
+    },
+    "-NeIF34J2iWnBU32DFu3": {
+      "Hum": 35,
+      "Temp": 7
+    },
+    "-NeIF3DpuspH3w1lB3yO": {
+      "Hum": 49,
+      "Temp": 9
+    },
+    "-NeIF3NN7xH8tJDGAyDa": {
+      "Hum": 39,
+      "Temp": 1
+    },
+    "-NeIF3WsSwECuagTIJw2": {
+      "Hum": 42,
+      "Temp": 4
+    },
+    "-NeIF3fS8iT0rHCQCY9n": {
+      "Hum": 15,
+      "Temp": 6
+    },
+    "-NeIF3pFbNYzINpgXmgL": {
+      "Hum": 18,
+      "Temp": 9
+    },
+    "-NeIF3ygoXlXU0znIATK": {
+      "Hum": 38,
+      "Temp": 9
+    },
+    "-NeIF47WPGms_Bd5lhPe": {
+      "Hum": 24,
+      "Temp": 4
+    },
+    "-NeIF4H05Fnp-qSBjc-Z": {
+      "Hum": 28,
+      "Temp": 2
+    },
+    "-NeIF4XB6il5w_zzxWNW": {
+      "Hum": 45,
+      "Temp": 2
+    },
+    "-NeIF4fT-ZA58uOeZ_13": {
+      "Hum": 28,
+      "Temp": 9
+    },
+    "-NeIF4oou4c8GEo5PX3J": {
+      "Hum": 41,
+      "Temp": 4
+    },
+    "-NeIF4yG2ddznH_6j39l": {
+      "Hum": 35,
+      "Temp": 2
+    },
+    "-NeIF574tdsK_A78dhyr": {
+      "Hum": 12,
+      "Temp": 6
+    },
+    "-NeIF5Gcm2m5ak1AqtZj": {
+      "Hum": 47,
+      "Temp": 2
+    },
+    "-NeIF5Q5-QIXyZlWBkJH": {
+      "Hum": 34,
+      "Temp": 9
+    },
+    "-NeIF5ZhBRyDylKp6qA5": {
+      "Hum": 18,
+      "Temp": 1
+    },
+    "-NeIF5i0XltcsNtqh81Y": {
+      "Hum": 26,
+      "Temp": 3
+    },
+    "-NeIF5rHUYi0TfjEKiUf": {
+      "Hum": 10,
+      "Temp": 1
+    },
+    "-NeIF6-hmtscg4S4jvHC": {
+      "Hum": 36,
+      "Temp": 8
+    },
+    "-NeIF696MA9zDgLU83eT": {
+      "Hum": 22,
+      "Temp": 9
+    },
+    "-NeIF6IQHkcD1mAVLkrW": {
+      "Hum": 39,
+      "Temp": 9
+    },
+    "-NeIF6Rnk8_KG-MRQIat": {
+      "Hum": 16,
+      "Temp": 3
+    },
+    "-NeIF6amszE4LGBJIRVJ": {
+      "Hum": 11,
+      "Temp": 7
+    },
+    "-NeIF6kMzShhruU5o_Qg": {
+      "Hum": 35,
+      "Temp": 8
+    },
+    "-NeIF6u5XecqZ-Q1OSpG": {
+      "Hum": 11,
+      "Temp": 9
+    },
+    "-NeIF72WDz_3S1Amfwzz": {
+      "Hum": 39,
+      "Temp": 6
+    },
+    "-NeIF7C5HkuQgxWqkK0x": {
+      "Hum": 39,
+      "Temp": 9
+    },
+    "-NeIF7Lk3r4Thuj26ew3": {
+      "Hum": 20,
+      "Temp": 9
+    },
+    "-NeIF7VP9tE3uw7EOAfU": {
+      "Hum": 28,
+      "Temp": 9
+    },
+    "-NeIF7dmufHynupOKgbp": {
+      "Hum": 33,
+      "Temp": 7
+    },
+    "-NeIF7n7mWqRUUQhn4PR": {
+      "Hum": 48,
+      "Temp": 1
+    },
+    "-NeIF7yWPh-xyDlIf0eK": {
+      "Hum": 16,
+      "Temp": 2
+    },
+    "-NeIF86x_dUdRdvcCk8d": {
+      "Hum": 41,
+      "Temp": 6
+    },
+    "-NeIF8GFwPFYGF93atuu": {
+      "Hum": 39,
+      "Temp": 4
+    },
+    "-NeIF8PVX7iehdJ7oSNp": {
+      "Hum": 24,
+      "Temp": 2
+    },
+    "-NeIF8Yo6YPh8o34m4TV": {
+      "Hum": 23,
+      "Temp": 8
+    },
+    "-NeIF8hFqsxIVwOBwwAX": {
+      "Hum": 24,
+      "Temp": 3
+    },
+    "-NeIF8qW0nr1FKjao4wG": {
+      "Hum": 25,
+      "Temp": 4
+    },
+    "-NeIF9-C_c3cB6N76GVD": {
+      "Hum": 22,
+      "Temp": 1
+    },
+    "-NeIF9984liuOXg_Zoh1": {
+      "Hum": 34,
+      "Temp": 4
+    },
+    "-NeIF9ITr51rwRzr_-vX": {
+      "Hum": 41,
+      "Temp": 2
+    },
+    "-NeIF9STwSKPVaZdyTEq": {
+      "Hum": 48,
+      "Temp": 5
+    },
+    "-NeIF9axvce9ueDLbbNi": {
+      "Hum": 34,
+      "Temp": 1
+    },
+    "-NeIF9kVF_OKV0YZ4tlX": {
+      "Hum": 43,
+      "Temp": 1
+    },
+    "-NeIF9u5rGxH7AuS6zSQ": {
+      "Hum": 36,
+      "Temp": 1
+    },
+    "-NeIFA2ZT9zXywCX3g5k": {
+      "Hum": 40,
+      "Temp": 8
+    },
+    "-NeIFACAP2ZjbzkU6T82": {
+      "Hum": 20,
+      "Temp": 6
+    },
+    "-NeIFALjLhNaZIZREYYW": {
+      "Hum": 22,
+      "Temp": 2
+    },
+    "-NeIFAihFDhCgbX2n1TG": {
+      "Hum": 30,
+      "Temp": 3
+    },
+    "-NeIFAt-ZFz8VL3AncHn": {
+      "Hum": 17,
+      "Temp": 4
+    },
+    "-NeIFB1O7h_sNYx4hi0m": {
+      "Hum": 48,
+      "Temp": 4
+    },
+    "-NeIFBAhqgPTVZGCLRzj": {
+      "Hum": 35,
+      "Temp": 3
+    },
+    "-NeIFBK98JiT6RIiDLiU": {
+      "Hum": 46,
+      "Temp": 9
+    },
+    "-NeIFBTrRXJRFvda9ROL": {
+      "Hum": 32,
+      "Temp": 7
+    },
+    "-NeIFBcad8NGeHBOORRW": {
+      "Hum": 38,
+      "Temp": 1
+    },
+    "-NeIFBmOJW89gaJKod9y": {
+      "Hum": 19,
+      "Temp": 2
+    },
+    "-NeIFBvwrrRxAIsutWd3": {
+      "Hum": 34,
+      "Temp": 6
+    },
+    "-NeIFC4LbOY-0qOw64YQ": {
+      "Hum": 12,
+      "Temp": 3
+    },
+    "-NeIFCKMhAOo_LjBJNWf": {
+      "Hum": 28,
+      "Temp": 9
+    },
+    "-NeIFCTwrkyIOmQ0GT96": {
+      "Hum": 47,
+      "Temp": 7
+    },
+    "-NeIFCdH2CO-bNJnAXSq": {
+      "Hum": 19,
+      "Temp": 1
+    },
+    "-NeIFCnHdHpV6J6a-Hly": {
+      "Hum": 37,
+      "Temp": 7
+    },
+    "-NeIFCx9SjUVLrFB_PBm": {
+      "Hum": 16,
+      "Temp": 2
+    },
+    "-NeIFD69kJO5WNxX1t5w": {
+      "Hum": 35,
+      "Temp": 2
+    },
+    "-NeIFDFw4GGM8KKcd91R": {
+      "Hum": 36,
+      "Temp": 2
+    },
+    "-NeIFDQNGeDNGEXARgRR": {
+      "Hum": 10,
+      "Temp": 6
+    },
+    "-NeIFD_JtBrM9ZJyOxJu": {
+      "Hum": 45,
+      "Temp": 5
+    },
+    "-NeIFDj9oQsj_OhnxxyD": {
+      "Hum": 18,
+      "Temp": 1
+    },
+    "-NeIFDt9i_54Awpq0pTD": {
+      "Hum": 43,
+      "Temp": 1
+    },
+    "-NeIFFH6tyr1S-xbEC0T": {
+      "Hum": 35,
+      "Temp": 5
+    },
+    "-NeJgFjCVA-izGCPb6Ss": {
+      "Hum": "68.0",
+      "Temp": "27.0"
+    },
+    "-NeJgG0P0pFGiBz4k2gH": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgGHHGpco8aSkCaL-": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgGZ5tZhygCJGX6LM": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgGpf6__Wrl0j9qcA": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgHBTGt4W0OMiw9_K": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgHSb5EDI6mOIV0Ck": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgHihwGYo4ls4Hs2A": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgI-NLC44QDYGXkEu": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgIH5CRFEksih7a06": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgIYII_SZt81SBafo": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgIoKtrJJ5bolNb6f": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgJ3wUe6WabRD6Sh5": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgJN6q14S3yH-HCdf": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgJda7CyJBQLQ2tF5": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgJvF_WypXJswChzz": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgKAobAEB70Cb3bIU": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgKRhNXqgg4WAH55X": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgKhPBZMuJXTjR3p4": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgKxu_WeqXfxDWqcU": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgLDqLq5LRDl2Qr_n": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgLVuMO9CwMtKIYty": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgLn7GXBn5Y0AG9i1": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgM3cV2hRPqn2XXi1": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgMKTeTcoV9xR9uIy": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgMbcUFdIHLjWxb_M": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgMtBjN_iFasDXVG5": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgNC6EL-gDa_1NLKG": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgNT7WFU0qZXn4HWB": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJgNjWmTBq48rTxT5I": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJgO0jqTjsNpKjnjPQ": {
+      "Hum": "70.0",
+      "Temp": "28.0"
+    },
+    "-NeJgOIjeNgCU2J_0n7p": {
+      "Hum": "80.0",
+      "Temp": "28.0"
+    },
+    "-NeJgOZULJaLuaRI4--W": {
+      "Hum": "86.0",
+      "Temp": "28.0"
+    },
+    "-NeJgOptFCNHuoqoZNdR": {
+      "Hum": "88.0",
+      "Temp": "28.0"
+    },
+    "-NeJgPBgK0r3NqL9fkg0": {
+      "Hum": "89.0",
+      "Temp": "29.0"
+    },
+    "-NeJgPXKtMbHoloao89s": {
+      "Hum": "89.0",
+      "Temp": "29.0"
+    },
+    "-NeJgPsmHY0cbQV2C929": {
+      "Hum": "89.0",
+      "Temp": "29.0"
+    },
+    "-NeJgQ9Jknw73t4m4g7I": {
+      "Hum": "85.0",
+      "Temp": "29.0"
+    },
+    "-NeJgQRMyMxKCHkKsAFH": {
+      "Hum": "82.0",
+      "Temp": "29.0"
+    },
+    "-NeJgQjWRaLloHdv1Csj": {
+      "Hum": "81.0",
+      "Temp": "29.0"
+    },
+    "-NeJgR0DQfQ3x9lKI7lw": {
+      "Hum": "79.0",
+      "Temp": "29.0"
+    },
+    "-NeJgRH5mSCs0OFIIbvt": {
+      "Hum": "78.0",
+      "Temp": "28.0"
+    },
+    "-NeJgRYvIVYq2o6ppoGt": {
+      "Hum": "77.0",
+      "Temp": "28.0"
+    },
+    "-NeJgRpMJf8um1ZHZK04": {
+      "Hum": "76.0",
+      "Temp": "28.0"
+    },
+    "-NeJgS6DE-qSl0aiuS1K": {
+      "Hum": "76.0",
+      "Temp": "28.0"
+    },
+    "-NeJgSOKfEgEZqg4QSxZ": {
+      "Hum": "75.0",
+      "Temp": "28.0"
+    },
+    "-NeJgSh2PLusIUsI3V0X": {
+      "Hum": "75.0",
+      "Temp": "28.0"
+    },
+    "-NeJgSyX2mNE74M0_gcz": {
+      "Hum": "74.0",
+      "Temp": "28.0"
+    },
+    "-NeJgTFAUazfjFsYfesE": {
+      "Hum": "73.0",
+      "Temp": "28.0"
+    },
+    "-NeJgTYjw6Ajd-uVOKGt": {
+      "Hum": "71.0",
+      "Temp": "28.0"
+    },
+    "-NeJgTuQdG9LQopu1trM": {
+      "Hum": "70.0",
+      "Temp": "28.0"
+    },
+    "-NeJgUAJAycwMeQvsX17": {
+      "Hum": "69.0",
+      "Temp": "28.0"
+    },
+    "-NeJgUSPQ_G4HEpAq-R1": {
+      "Hum": "68.0",
+      "Temp": "28.0"
+    },
+    "-NeJgUiTjlyeisaWXXlC": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJgV-Rjgu9I5XYFN1k": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJgVGapOddnIYG4B24": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJgVXmsPA2pIZmnQlN": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJgVowuGyt6kuP62zW": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJgW501KbyDgIjD_py": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJgWMvZ3hLPUpjf7IW": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJgWgDKv3LqtX3WGRs": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJgX171oPOwCVUnsw1": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJgXIwet5b9xOW_uP7": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJgXZw0GWWCtMafOO8": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgXsAsdhpkOnC8EUJ": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgY8Lvw2qGMQDoR6_": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgYPG-vRthGL6GoPV": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgYyPr736t1PII0jZ": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgZPOW28zc4UEtRIA": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgZkj_eVco9auHWkp": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJg_0gXTwCfKbDaFpu": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJg_K2oJfvOi6hHzQt": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJg_aZZSdmtmpqnV_6": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJg_tckCmqJPGOeTnk": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgaA6kCtEL_tABYnH": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgaR9gR4s7w-q7uoK": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgai6Cbaw-9hiC9dh": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgb0Fe39Nv8H0Q1J5": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgbH2rrgjsOnvzAHb": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgbYEWEhySvgLKWqe": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgbr-ZYZMv2SGAqym": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgc9ciVaS2Cy5u7TU": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgcRRRydiPc9fTKF2": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgcjA3Umk0Bk8tXkn": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgd2UqZnTtfRu_QIN": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgdLfahhHTGgjVl1c": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgdddlyRmiaTnfTSe": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgduVmzZ-KYOo74iV": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgeBc0TTQ68O4Egdh": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgeSeGEjjwib1-K_n": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgeiMR3om222hOobA": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgf-uHIPwn7NoeWTv": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgfHwlU8N-eOrAdGy": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgfZ8ahJNsmz0WqZB": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgfpbtW5dyeqo9oqg": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgg5tQ_g3flhy7tI8": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJggNbS2igWGQsL88r": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJggeQ5ZjXN4ASzUpB": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJggv-Sa1FCfMRZivY": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJghM2Nw-9wjmqSogw": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJghkJZ8cf_vZ-dFz0": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgi05yq55Yu0pj_Ct": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgiHv-OxmA929vTMy": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgiZB96If2Ac7Xsgq": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgipWZeXXeZPxTbgo": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgj6kbyr8QWqwX73I": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgjOFSbK3mf2UPR7D": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgje2e-hSv5HwMANK": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgjwTbhrI9U7Q0WmS": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgkCf6TMK673Gur2u": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgkUA-QGyCM7dJUdl": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgkkzuPOXGEdM6fCN": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgl0SJy4ulj9eIVdv": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJglIGuhv9RJh-d168": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJglZWH2eMCRqHMvzV": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJglphbXHE-2ggbx7A": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgm7-wAFLPVGykcdM": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgmO6dN26ZjorAY7Z": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgmdQeyRt2UeS7Rbu": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgmtkWlw6zuWWtrdk": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgnACEenzXWSQRanZ": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgnRziyJkUvKnt4Z7": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgniAMAhP_riFHzzH": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgnyu2G3ZofJiKE5s": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgoESurKOyyNEiL7E": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgoVMPNgCA4_gJTAn": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgom8oUiNV2JA97jg": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgp2Md7fbFGsMfsZS": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgpIk403hceacO66B": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgpaQ-QptHEDnDZva": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgprCl5mHMzHlvEJ0": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgq6o8gXa0j2xE3AT": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgqNLNsV9zW-_ZWhI": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgqnrEi5gIwvI54Rk": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgr53ItyR4ZYOxlxs": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgrO6kZiqLncyhKOb": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgrjp6W-_RszA7BTm": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgs1tcKef74rDqD8c": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgsNUR5gjlRR8IdO7": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgsdikZNyrO9HuMuv": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgsume0V5KaOVl0NT": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgtC3kOHoWbHSx8bM": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgtT9ZQKoUibMt13z": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgtjfgCbNqjq8rJPR": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgu-Wx8hSh-1MzkMc": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJguHz8ymgchS1JsqI": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJguZD4cjdIddfmhf3": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJguperNT8eua7vq5k": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgv6S93jSZiwRaDlk": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgvO1-q2pX_h1m27q": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgvllCwpQm1XW_GrM": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgw2ZFvZwUtg-c7BI": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgwK1qoVwH6-OTSgd": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgw_oaU1W2Z3et8HH": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgws3ynfqC1PepePy": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgx7vPbKmQoiQmu-N": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgxP7ak06gSuepUbx": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgxfkzKSuH544uBMf": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgxwcTP7O4j3_foE2": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgyCZtDsvYQzNsr3s": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgyTLnRVWEWTLWow4": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgyjPwIcr7CaCqhY-": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgz-i55Z6pQ1JVKeq": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgzGstz2ZqqxLoczc": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgzZ4U7pSyz3nAdB_": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJgzopEMC-t-Ur4PCp": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh-4yOc8DLToiGbXz": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh-Lm3AMDtnmmHzxA": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh-qCIHf7f7hg4FFM": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh06ks7dsgiasYebm": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh0OcLCj33sqszPFZ": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh0ec-d9qzBg6Wdv_": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh0z4rPe8ilgiKhwl": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh1Fprszh5Iid45Bq": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh1XDvFxj1_bkVPP2": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh1nRJf1mCL1nNSY3": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh23wT6fkntWQOHbd": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh2Ke9BlapN7a7Lbf": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh2b-O6aEfDHp-Zw6": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh2sOoShMDXogpU0m": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh38L1Kp8ryHmk0o4": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh3PYrvupjTutykIi": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh3fiucw9mVHAMDiM": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh3x31U40gJGwhRPB": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh4E14ecldgj4wRBX": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh4VYUuzN1uUoFEsY": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh4lk_R6WbLpcsuxU": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh53m62U9phrU2BeV": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh5Ls4qT8LZahP2Cl": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh5df3p-fgkN-Tco8": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh5w5DQQa4utyry27": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh6Cbk3UCiXRme0ho": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh6UijF_HlH8hE8Iv": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh6lZo4I7qRYuDuC1": {
+      "Hum": "65.0",
+      "Temp": "28.0"
+    },
+    "-NeJh71dI6-7jzUUqN3r": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh7IaSf-LyLAjDQss": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh7_g0MhSaYz799BE": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh7rF9Zk4B5h0vzRH": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh8B4AiHmyUgjAZKY": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh8SN-eBvgDRCfjBe": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh8upyhcMk8ad6pI7": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh9B6I6L_lslskxPZ": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh9SkUYJVJK9rMSoo": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh9jADi_EQ2TXMlQ-": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhA-QqhgscPL7LFUL": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhAGYG37rra8S20-x": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhAXovlqUriiuN_F5": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhApGMfWV3DlZPH_f": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhB5kc3NDQ9tGzPvU": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhBMlea-cp6tpxQc1": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhBg7ifOXyL_AWzAD": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhBxII5gm4NV5IYFV": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhCEE4GnRRItECCmX": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhCVc1h4jmSD_7Xj4": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhCm4BZS4l4MvMdbP": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhD26100cY12x2yaL": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhDJbwyGq9lvZliEv": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhDa631AMpmn8U3Pc": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhDsEa0UxWW21NVko": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhE8Y299gZ6E5SPg9": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhEPxHPRoBmPC089p": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhF-QmKFw_6jyxCTu": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhFNBq48XJ4cUfpY7": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhFhlqyBn_aZlUdF2": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhFzEaF7MINty0Phl": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhGG4jGYLVVnjRAE_": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhGo6kf0Qp1A_QDsU": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhH72pq6VA2_kFTCI": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhHR3qVmbTj9kL7Gy": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhHjeRPxXEvutzD91": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhI048ISV_tRMcz3m": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhIHlYZb1_DCmzjsb": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhIZ6dlVZyWmtUvEF": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhIq3RYjD2iNn-hY9": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhJ929rGUewxpch5C": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhJSoggOuhjAuUMh7": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhJmzUEVElqIE8bqv": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhK4a0deQcrapx1ya": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhKNW9VmMQmYDLIiB": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhKf9w50qDfPuSFJf": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhKw76RUpE94mYZ1a": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhLDcNSfltn_B7Lqu": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhLXddGUNeRuQ1Qcq": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhLo4ON9tAOs5mom6": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhM46dwnfq4lYYIpz": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhMLSTiSDp6mLmKLo": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhMbwax4aIvAN1kyN": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhMt1g_cv8jyGT3yD": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhNAYw-gpd23YfJzg": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhNU_BGzaFbg8u1-9": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhNrPrFXF-vvsgtZx": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhO70Zb9YIiQ4VIxa": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhOO4X45O1EFAIMMq": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhOeBeNylR05HcUtw": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhOvbnplc5hC0BHrT": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhPK8gT3ZxMq-Rx_u": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhPa57GwEVzOTUirJ": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhPqpPBdsjmxAYH05": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhQ8d9IF90M8vDpof": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhQSYQMYkoc2BNC-D": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhQitTEvbPAtSNrXD": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhQzvuNh9ujfZmIDs": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhRFqlJtSdfqVRmIa": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhRWrW6oOGP13TDZH": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhRmxbv5qw_eFj34I": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhS5EG0iVMEVbhd77": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhSN2yx4bl6PYmysN": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhScvv8msK2oMsAOT": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhSv4L7E_K1PHOIvl": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhTBZy3vJGpDJyHBd": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhTT4YT0iS2p6Qb9x": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhTitDjlBZPLerc_H": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhU0OJlDubSGiEFAf": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhUK2vyedymSDJvXZ": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhUaLMlo3JruvZjd8": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhUrBfYvYl2E-cyWU": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhV9BhIhOKohJQXaE": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhVSYhr5WinmvKvVy": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhVnjUP3ofQZvbbPN": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhW47wDkRtwEz0FTD": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhWLldaI0EcORNsKm": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhWceMFP1wQ242sDR": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhWu2wD3ncnfuYzsN": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhXAN0Cv-jvE8lnCS": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhXRj2zKn7DgXWBFD": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhXi_TTF9xOC4H8vi": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhY-2JB9qeZFb5luK": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhYHnAdI7BdsbSePc": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhYotcNa7nKqYWTM2": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhZ8nwgA5_w3xiUYH": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhZQhfEkqzqwCHDWJ": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhZhoxnT5-E56KRgA": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhZz_KCyN9zo03yrr": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh_G9-5hAI3vOXbdl": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh_WqfmYZXcyYUfgN": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJh_ncgs5MSNvAkJZk": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJha3gjPKwKyTHcpn5": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhaLbc_K78y8Y2Cm-": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhabjqiDx4wGLKlsj": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhatDiPgJMZ7tCfsC": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhbF6-a1sS-DGoeUx": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhbXcY3zdJAH55cWr": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhbncQSxxEGk6JNEa": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhc3jxgljk9j_9yC2": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhcKmNvByWY4MsBGm": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhcbk2sraM8J6zfIc": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhct-OFh5bmLa8Rra": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhdA2iCK3_JgrHfDc": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhdR4MWJquOvkk1-s": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhdhkev40-Vciw0F1": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhe-VWmKD2xclNNV_": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJheIcCj4ElIxOAQhq": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhebYCnSEk-JsYwfw": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhevZj64-Qwa8KcU3": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhfEYOf4bvpAe2GTI": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhfYNbrLi_edAUf7H": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhfojALlfZEpho6hR": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhg4h8jRcoZBSOuoh": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhgM9IydadxcIjlyM": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhgd9yG3UYQCen8pC": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhh2AfNi-fA_fM4Zk": {
+      "Hum": "66.0",
+      "Temp": "27.0"
+    },
+    "-NeJhhJNDLhR2fHlG1ow": {
+      "Hum": "66.0",
+      "Temp": "28.0"
+    },
+    "-NeJhhbk2n79ieHlaasp": {
+      "Hum": "66.0",
+      "Temp": "27.0"
+    },
+    "-NeJhhtAT6BkvDw9CmA4": {
+      "Hum": "66.0",
+      "Temp": "27.0"
+    },
+    "-NeJhi9aNYrWxU9pyxxm": {
+      "Hum": "66.0",
+      "Temp": "27.0"
+    },
+    "-NeJhiRAB0P3A1F9S6hZ": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhihPp4OIJ3dsyORs": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhj12vD1o3JhKmUJu": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhjKRWMwGLjbThCtN": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhjadZoBFq7qYESzZ": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhjrowFEresoAtZyS": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhk8m3r7HSY2YrEk8": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhkPsGLkIw7TQgRLt": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhkfpGnTzb1ZZ40ev": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhkwmvhZaniEV3HyO": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhlCpVh8y4rPYXSub": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhlUEDcJgutk5ZGSS": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhll3k5I9FURs-F7n": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhm4yeXtT2kRP14uq": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhmNlaPFopCevavg5": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhmfsrMn_axd4Z6kY": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhmyJRIlTaEIG-ouG": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhnEj8SIX6rL7xXnB": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhnVv_527S-pV-_H5": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhnnNvruXeH664Cm7": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJho5mhiwBBfSl90wp": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhoNZBl0_ejW5MT54": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhofa4bcQjiLi9iZv": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhowjf5cAYrmxZC_g": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhpCkOW7a3Qe5zaDz": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhpZtLNHH65VhTmwQ": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhpq6cNn7RYS0oV0z": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhq6UmprJ8C9ss0N8": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhqWrL4xSCxnGFF60": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhqpplL-R9crp4SYI": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhr5vlJBkRfGaXhqe": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhrO88PRAlaGOFSeM": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhreEkQGhwwTOK8bh": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhrvQm35KYEh0aB2c": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhsBINaxYwO8voJKn": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhsTkaA3XF_qDtzFm": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhsk0PUy8hjjXjsWp": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJht15JBrwogA7Y5kP": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhtKkfpwtGSSqSoT6": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhtb4Y9wAAd5X1C7O": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhtsQ2LpQRwir4EB5": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhu8XnQwpaX0AypF8": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhuPnGMbHYVoY033A": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhugDLoqELpqZAf2i": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhuxLZyJybHXBSaYL": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhvDhRCafxWn-COFo": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhvVM5l-BiGN4BD2U": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhvlixRb0MdfMJBdQ": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhw1m0xPolRoTegfO": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhwIeEe-HGqeSBygq": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhw_ZIiyzLinhU6Xb": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhwt_M_gejivTBPDi": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhxBxkATDmWpmyVwE": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhxTSf9NBeYLdFquU": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhxkZAGQ7RqylPLSc": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhy0jRMno1ZKraWkY": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhyIEHmuJD5Wa0Bx7": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhyZG-Rb-v9ZdB0c2": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhyqJhaCbaRiUmgE_": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhz6Sn_IS-Oq7DEmg": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhzOE8Wij6KSbh4vX": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJhzeNbDd43C66rsoJ": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi-0FfrfujAXVGhbT": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi-HjDvLsUPCpcEqU": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi-aGlQUanX0rqvr2": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi-wxnfjtQqIRF-y8": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi0EfFO8CUqhYy3XR": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi0Y4qfma0v2NfHIT": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi0oYQRzfYmzMA6n2": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi15Mv4de2SEKjiJo": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi1P34rySKjlzMaAS": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi1i43gJLAzp--lRs": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi1zEEAwe1GniKqua": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi2FRaxQmXlFE5bwB": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi2XEo81CbT32xj5q": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi2v6OQk6fU9iG_Gy": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi3BlFno5PNP2lCSk": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi3TYUvB-Ak7GvmzV": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi3kzu8V-CRaIHY6S": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi42SbElI4rbKN6y2": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi4K8KtIsNAnwYR7f": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi4ajL-BHu71Rd65C": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi4sGo8sPaBtfeTY4": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi58VmKNOKF-DHNVv": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi5Q-60a25Vn0YKtL": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi5gjFPRVdlVbNtTd": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi5xxpDm2VyeJOJjr": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi6ElF4XEY0Nxo-S_": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi6WGa_D3cBLfdp34": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi6mlSXqGo_01SoZe": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi73fc01XEtlN6Ci2": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi7N4oBE5wGdgHQ07": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi7d2dllcNhfT073A": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi7uKfDQTXffvku_D": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi8BjKZAhEWXVhbET": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi8SgKOsia6hjwO8S": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi8tmg9lXl8i1YkAR": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi9AKsaDOtpxKwWpK": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi9Rj7org045LGYKE": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi9i29wrHKpa8DOT6": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi9zm9UbTw7-vUfmq": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiAGYgBsEZ_9I3h6w": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiAXoGUx2_0q8l84m": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiAoREGM3IoU03YIr": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiB54etvCqX3tTUQM": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiBOVZJn9kEblKGdh": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiBfFr2B1RnEzN3EY": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiBwczhD52FSHcGyi": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiCCe1TflGRP9GLpx": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiCUfmiZkGc-LGGbD": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiCkv7cxnuvUi4Vlc": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiD1lMrR4RitvTlvZ": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiDJFE8-KSzYU3Rbo": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiD__Uf4nwIYeTRZt": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiDsQ_-RDhbzMMq4N": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiEALoa0HNwnPR2-c": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiETIY4w2mlzcx319": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiElOWGcunrBFMnkD": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiF2V-kIsGAQQs5-Z": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiFL_gQ2z-PV1BWS3": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiFgapznFD13zirIs": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiFxrdDCvGtFvmnZl": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiGEBQsuXa7Qo-KbF": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiGVJUHuNSLcwY010": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiGmcGyz1Upa_hbYl": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiH9OEF3VoqVVXWfk": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiHPslxrctqWuW2G3": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiHgPL5Ix-2QyHjs-": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiHxtb09oofNAIszh": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiIPJ7YtTi5cPrfZf": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiIeaekoniFIs8Y9A": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiIuv6Og6uutxFJ6-": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiJCaPR-zJaWVguYX": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiJSvsfIK1NZECUjM": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiJm9O1IG_yqACNpE": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiK3HrulWBHP7nBWO": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiKL5AnHYeJAWtv4S": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiKarKBqQV2i-1U5n": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiKtPZF3nS1EiO2fi": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiL9dnjaWO9jVuaUa": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiLRQuuV-dgaxkwKO": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiLgnY3YK-n2Bj-2J": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiLzFAnmfOehL9XVW": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiMF2Az-XkT3B71cf": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiMVWQMgaBSoi3eci": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiMoCJ59qQR7J_v__": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiN3uzVgGbn-gddmO": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiNLatJhYF89zC7D2": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiNc4oJkKm1-1CG89": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiO6K8SjpQrvxNsbN": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiOVdFBMJ3Vsn_Vg1": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiOsOSuXrSIFo_3lf": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiP8sHLasBenmWE6D": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiPQq0SjwyxyPj6Wb": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiPmo0Xb9YYF951UE": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiQ4ZKhV0whO_zKG_": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiQM5sX2Fxwa-R0wb": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiQcufUDXzugKXBM7": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiQtSCgNWV5AgKndc": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiRLtne1rG2CFnDQm": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiRdspIzlupODRgP6": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiRviagvLjuA95eTv": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiSENfHCKFAR7d9_g": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiSVzcUmTXBymo8_O": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiSmgYeB_XjC_FzQS": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiT47defVIs_gxeY9": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiTMiBAyAyCIqfHSf": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiTeEgWwdFIE4Vblz": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiTxS8usXVy3tYEG3": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiUEC_jzhHeBywjQQ": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiUUX89uX1ZV_Wuho": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiUkJBDxUvRvIz4kI": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiV1XapuMc9xo_WPi": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiVJu7lqMGmjy8Dbf": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiV_RHAG5YVGuUwij": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiVxlnZ4eSmktKS45": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiWFezRgMkXEZViAd": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiWWdsDmSoLUja25K": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiWnW9Dlbz7K-BPRf": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiX3a1Eq9MnUPidjS": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiXL06zYiaXIcbLbA": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiXapihaqBgVClUsM": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiXtsty1LoX03Mjh9": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiY9dF5ZcpyRXo57h": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiYRZq_CTZCZKV8uV": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiYhUtcbgndOXkjvt": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiYzZ0nfSrWCdp9Mz": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiZFkLv4xtGVr9Jeg": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiZYBn7Bz8-q_7VQC": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiZqfCugl-fA0Aq3S": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi_742_gFFtpyXcti": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi_Oux1l0DTnhc5Pu": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi_fT1D92B-GOiJhn": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJi_yK4hLl_UJ21whX": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiaE0PknboRTkWcAB": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiaUXm63KNUR-KAll": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJiajyRzGu_pA1Sp0Z": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJib-im3sx64xQfKX3": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJibIP6C--qK6kiLJN": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJib_sP07LcdUW4r9A": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJibr3FSZaaeHe9VJO": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJic7yfHIuL3EAdJ-X": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJicPiHzAF7nlBt5dY": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJicfbTIYIBT6jvPRb": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJicx5fFmUvUVLyK8c": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJidDz-Snh0tpL6RET": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJidVN1K_IMDWYJQmh": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJidltxovtuBkrXVuN": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJie28lTEUQV_t5Ka_": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJieJWpM46U6PpBKfL": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJieaPIcfZ4w2Yy96G": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJieu0zluqfAviYT7f": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJifAzmiHYlCVn7uuC": {
+      "Hum": "67.0",
+      "Temp": "27.0"
+    },
+    "-NeJifS0FUZmt-fdGKt4": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJifiwcMuo61MeruP6": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJifzWt_aMSO6RWtvF": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJigGueX1d-kli-lRR": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJig_2pocy2LLvDuGR": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJigvkL3DLoq2jjdcY": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJihDor6aJRylm2Kra": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJihUkq1QED9R2r6og": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJihn4sKh78GZN593P": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJii2Jyqo_rYjBVRb2": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiiLOFZ44bjZymWKs": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiibKQz-5r_Njiv4w": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJij82EAvhEt9eB5ud": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJijRYMnGguz6DdzQw": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJijhoxpdrIqvc2vE2": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJijzZdCCimSzJeEwv": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJikG2VMyEuf_f9yI0": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJikX_Rf34zpWNzfeW": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiknjwLUdj0i3vWns": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJil4ZXeLdU-cY08vR": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJilM4eckU9uxSL2G-": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJilc9nwnlaJkmsrCe": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJilt8Lg06J7oQFfR2": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJimDSQCkP60gsfL_Y": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJimUeSoVuFBy3Lrml": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJimqhY3aRv8-HC-H2": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJinBYPh7T1RQ6lBEa": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJinSlYxHm4nDRKwz9": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJinllcQ6N9ektrQNp": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJio2_PI6ygGXFLZ-b": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJioLxAiVM5CuRXNJY": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJioclceTCCu3fcbt7": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiour_n1fE4kWxBOf": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJipAl0z1iajazPC3i": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJipRvvjHa4BAQyyRI": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJipjce3cheTm3wn_d": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiq1_CgfIniJXybF7": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiqJEFQY4KDpE77Tt": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiq_j1Vp7AX48C-94": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiqr_zEUC0h4KpDvH": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJir91zUJ96IBoO_Qu": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJirT4aA5kbXRS57Tz": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJirlOTy1UkWm08xl7": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJis4fWScCC9z8gV88": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJisV6yWlhVRbXY_Xc": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJisl87y2DpLMb3vhl": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJit2JUhnMXNVqsCPW": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJitNWfzc6BC2F75wf": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJitewdoE8FBX_WQRJ": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJitx29-4-kAurEyoB": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiuDE_P3SdppdcGFO": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    },
+    "-NeJiuW0khsgzaxklPCE": {
+      "Hum": "67.0",
+      "Temp": "28.0"
+    }
+  },
+  "Temp": "28.0"
+}
